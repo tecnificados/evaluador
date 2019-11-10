@@ -5,6 +5,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
@@ -15,6 +16,7 @@ import org.apache.commons.io.FileUtils;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.tecnificados.com.evaluador.bean.ConjuntoDatos;
 import org.tecnificados.com.evaluador.bean.OrganoPublicador;
 import org.tecnificados.com.evaluador.util.Messages;
 
@@ -69,7 +71,22 @@ public class App
         
         Map<String, OrganoPublicador> organos=Evaluador.evaluaLineas(readedLines);
         
+        Set<String> diferentesFormatos=new HashSet<String>();
+       
+        for (Map.Entry<String, OrganoPublicador> entry : organos.entrySet())  
+        {
+            log.info( entry.getKey() + "," + entry.getValue().getDataset().size()); 
+            
+            List<ConjuntoDatos> dataset = entry.getValue().getDataset();
+            
+            for (ConjuntoDatos d:dataset)
+            {
+            	diferentesFormatos.addAll(d.getFormat());
+            }
+            
+        }
         
+        log.info("Los diferentes formatos son: "+diferentesFormatos);
         
         log.info(Messages.getString("App.9")); 
     }

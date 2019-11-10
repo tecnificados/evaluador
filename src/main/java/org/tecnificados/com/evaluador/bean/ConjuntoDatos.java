@@ -1,7 +1,9 @@
 package org.tecnificados.com.evaluador.bean;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 
 /**
@@ -10,16 +12,16 @@ import java.util.List;
 public class ConjuntoDatos {
 	
 	private String title;
-	private List<String> format;
+	private Set<String> format;
 	
 	
 	public ConjuntoDatos() {
 		super();
 		this.title = "";
-		this.format = new ArrayList<String>();
+		this.format = new HashSet<String>();
 	}
 	
-	public ConjuntoDatos(String title, List<String> format) {
+	public ConjuntoDatos(String title, HashSet<String> format) {
 		super();
 		this.title = title;
 		this.format = format;
@@ -43,12 +45,12 @@ public class ConjuntoDatos {
 	}
 
 
-	public List<String> getFormat() {
+	public Set<String> getFormat() {
 		return format;
 	}
 
 
-	public void setFormat(List<String> format) {
+	public void setFormat(Set<String> format) {
 		this.format = format;
 	}
 	
