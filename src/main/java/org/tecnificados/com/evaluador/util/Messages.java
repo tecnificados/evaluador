@@ -4,6 +4,10 @@ import java.util.Locale;
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;
 
+
+/**
+ * @author Juan Carlos Ballesteros (tecnificados.com)
+ */
 public class Messages {
 	private static final String BUNDLE_NAME = "org.tecnificados.com.evaluador.util.messages"; 
 

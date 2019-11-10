@@ -7,20 +7,24 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
+import java.util.Map;
 import java.util.Properties;
+import java.util.Set;
 
 import org.apache.commons.io.FileUtils;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.tecnificados.com.evaluador.bean.OrganoPublicador;
 import org.tecnificados.com.evaluador.util.Messages;
 
 /**
- * Lector de ficheros linea a linea
+ * @author Juan Carlos Ballesteros (tecnificados.com)
  */
 public class App 
 {
 
+	
 
 	private static final Logger log = LoggerFactory.getLogger(App.class);
 	
@@ -62,10 +66,11 @@ public class App
 		} catch (IOException e) {
 			log.error(Messages.getString("App.8"),e); 
 		}
-        for (String actual:readedLines)
-        {
-			log.info(actual);
-        }
+        
+        Map<String, OrganoPublicador> organos=Evaluador.evaluaLineas(readedLines);
+        
+        
+        
         log.info(Messages.getString("App.9")); 
     }
 

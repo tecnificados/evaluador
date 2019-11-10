@@ -1,5 +1,9 @@
 package org.tecnificados.com.evaluador;
 
+
+/**
+ * @author Juan Carlos Ballesteros (tecnificados.com)
+ */
 public class Constant {
 
 	public static final String UTF_8 = "utf-8";
