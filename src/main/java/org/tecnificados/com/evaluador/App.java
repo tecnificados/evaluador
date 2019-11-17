@@ -71,7 +71,21 @@ public class App
         
         Map<String, OrganoPublicador> organos=Evaluador.evaluaLineas(readedLines);
         
-        Set<String> diferentesFormatos=new HashSet<String>();
+        Set<String> diferentesFormatos = availableFormats(organos);
+        
+        //TODO generar una tabla de puntuacion para cada formato
+        log.info("Los diferentes formatos son: "+diferentesFormatos);
+        //TODO verificar si los formatos no varian de una ejecucion a otra, si varían enumera y lanzar excepcion
+        
+        //Comenzamos a generar Informes
+        InformeOrganismoFormatos.generaMD(organos);
+        
+        
+        log.info(Messages.getString("App.9")); 
+    }
+
+	private static Set<String> availableFormats(Map<String, OrganoPublicador> organos) {
+		Set<String> diferentesFormatos=new HashSet<String>();
        
         for (Map.Entry<String, OrganoPublicador> entry : organos.entrySet())  
         {
@@ -85,11 +99,8 @@ public class App
             }
             
         }
-        
-        log.info("Los diferentes formatos son: "+diferentesFormatos);
-        
-        log.info(Messages.getString("App.9")); 
-    }
+		return diferentesFormatos;
+	}
 
 	
 }
