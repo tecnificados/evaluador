@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+import java.util.TreeSet;
 
 
 /**
@@ -18,10 +19,10 @@ public class ConjuntoDatos {
 	public ConjuntoDatos() {
 		super();
 		this.title = "";
-		this.format = new HashSet<String>();
+		this.format = new TreeSet<String>();
 	}
 	
-	public ConjuntoDatos(String title, HashSet<String> format) {
+	public ConjuntoDatos(String title, TreeSet<String> format) {
 		super();
 		this.title = title;
 		this.format = format;

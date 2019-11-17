@@ -2,12 +2,13 @@ package org.tecnificados.com.evaluador;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.TreeSet;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.tecnificados.com.evaluador.bean.ConjuntoDatos;
@@ -33,10 +34,7 @@ public class InformeOrganismoFormatos {
 		 
 		  for (Map.Entry<String, OrganoPublicador> entry : organos.entrySet())  
 	        {
-			  
-			  	
-			  
-			  	Set<String> diferentesFormatos=new HashSet<String>();
+			  	Set<String> diferentesFormatos=new TreeSet<String>();
 	            
 	            List<ConjuntoDatos> dataset = entry.getValue().getDataset();
 	            
@@ -45,7 +43,11 @@ public class InformeOrganismoFormatos {
 	            	diferentesFormatos.addAll(d.getFormat());
 	            }
 	            
-	            addLine(entry.getKey()+"|"+entry.getValue().getDataset().size()+"|"+diferentesFormatos);
+	            String listaFormatos=diferentesFormatos.toString().substring(1);
+	            listaFormatos=StringUtils.chop(listaFormatos);
+	            
+	            
+	            addLine(entry.getKey()+"|"+entry.getValue().getDataset().size()+"|"+listaFormatos);
 	        }
 		  
 		  

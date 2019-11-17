@@ -1,11 +1,11 @@
 package org.tecnificados.com.evaluador;
 
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.TreeMap;
+import java.util.TreeSet;
 
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
@@ -29,7 +29,7 @@ public class Evaluador {
 	public static Map<String, OrganoPublicador> evaluaLineas(List<String> readedLines) {
 		
 		
-		Map<String, OrganoPublicador> organos= new HashMap<String, OrganoPublicador>();
+		Map<String, OrganoPublicador> organos= new TreeMap<String, OrganoPublicador>();
 		
 		
 		for (int i=0;i<readedLines.size();i++)
@@ -110,7 +110,7 @@ public class Evaluador {
 		dataset.setTitle(cells.get(COLUMNA_TITULO));
 		
 		String distribuciones=cells.get(COLUMNA_DISTRIBUCIONES);
-		Set<String> formatos=new HashSet<String>();
+		Set<String> formatos=new TreeSet<String>();
 		
 		String[] split = distribuciones.split("]");
 		for (int j=0;j<split.length;j++)
