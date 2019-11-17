@@ -39,7 +39,7 @@ public class InformeOrganismoFormatos {
 		
 		mdLine("-- | -- | --");
 		
-		csvLine("Organismo"+csvSeparator+"Cojuntos de datos"+csvSeparator+"Formatos");
+		csvLine("Organismo"+csvSeparator+"Conjuntos de datos"+csvSeparator+"Formatos");
 		
 		 
 		  for (Map.Entry<String, OrganoPublicador> entry : organos.entrySet())  
