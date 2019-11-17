@@ -20,6 +20,14 @@ import org.tecnificados.com.evaluador.bean.OrganoPublicador;
  */
 public class InformeOrganismoFormatos {
 	
+	private static final String FORMATOS = "Formatos";
+	private static final String CONJUNTOS_DE_DATOS = "Conjuntos de datos";
+	private static final String ORGANISMO = "Organismo";
+	private static final String SEPARADORES = "-- | -- | --";
+	private static final String CABECERAS_TABLA = ORGANISMO+" | "+CONJUNTOS_DE_DATOS+" | "+FORMATOS;
+	private static final String DESCRIPCION = "En la siguiente tabla listamos cada organismo, el número de conjuntos de datos publicados, y los formatos que utiliza.";
+	private static final String TITULO = "# Informe de Organismos y formatos utilizados";
+
 	private static final Logger log = LoggerFactory.getLogger(InformeOrganismoFormatos.class);
 	
 	private static StringBuffer informeMD=new StringBuffer();
@@ -31,17 +39,13 @@ public class InformeOrganismoFormatos {
 
 	public static void genFiles(Map<String, OrganoPublicador> organos) {
 		
-		mdLine("# Informe de Organismos y formatos utilizados");	
+		mdLine(TITULO);		
+		mdLine(DESCRIPCION);		
+		mdLine("");		
+		mdLine(CABECERAS_TABLA);		
+		mdLine(SEPARADORES);
 		
-		mdLine("En la siguiente tabla listamos cada organismo, el número de conjuntos de datos publicados, y los formatos que utiliza.");	
-		
-		mdLine("");
-		
-		mdLine("Organismo | Cojuntos de datos | Formatos");
-		
-		mdLine("-- | -- | --");
-		
-		csvLine("Organismo"+csvSeparator+"Conjuntos de datos"+csvSeparator+"Formatos");
+		csvLine(ORGANISMO+csvSeparator+CONJUNTOS_DE_DATOS+csvSeparator+FORMATOS);
 		
 		 
 		  for (Map.Entry<String, OrganoPublicador> entry : organos.entrySet())  
