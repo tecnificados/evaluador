@@ -35,6 +35,8 @@ public class InformeOrganismoFormatos {
 		
 		mdLine("En la siguiente tabla listamos cada organismo, el número de conjuntos de datos publicados, y los formatos que utiliza.");	
 		
+		mdLine("");
+		
 		mdLine("Organismo | Cojuntos de datos | Formatos");
 		
 		mdLine("-- | -- | --");

@@ -28,6 +28,7 @@ public class Evaluador {
 
 	public static Map<String, OrganoPublicador> evaluaLineas(List<String> readedLines) {
 		
+		log.info("evaluaLineas");
 		
 		Map<String, OrganoPublicador> organos= new TreeMap<String, OrganoPublicador>();
 		
