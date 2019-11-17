@@ -78,7 +78,7 @@ public class App
         //TODO verificar si los formatos no varian de una ejecucion a otra, si varían enumera y lanzar excepcion
         
         //Comenzamos a generar Informes
-        InformeOrganismoFormatos.generaMD(organos);
+        InformeOrganismoFormatos.genFiles(organos);
         
         
         log.info(Messages.getString("App.9")); 

@@ -14,23 +14,33 @@ import org.slf4j.LoggerFactory;
 import org.tecnificados.com.evaluador.bean.ConjuntoDatos;
 import org.tecnificados.com.evaluador.bean.OrganoPublicador;
 
+
+/**
+ * @author Juan Carlos Ballesteros (tecnificados.com)
+ */
 public class InformeOrganismoFormatos {
 	
 	private static final Logger log = LoggerFactory.getLogger(InformeOrganismoFormatos.class);
 	
-	private static StringBuffer informe=new StringBuffer();
+	private static StringBuffer informeMD=new StringBuffer();
+	private static StringBuffer informeCSV=new StringBuffer();
 	
 	private static String breakLine=System.getProperty("line.separator");
+	private static String csvSeparator=";";
+	private static String csvQuote="\"";
 
-	public static void generaMD(Map<String, OrganoPublicador> organos) {
+	public static void genFiles(Map<String, OrganoPublicador> organos) {
 		
-		addLine("# Informe de Organismos y formatos utilizados");	
+		mdLine("# Informe de Organismos y formatos utilizados");	
 		
-		addLine("En la siguiente tabla listamos cada organismo, el número de conjuntos de datos publicados, y los formatos que utiliza.");	
+		mdLine("En la siguiente tabla listamos cada organismo, el número de conjuntos de datos publicados, y los formatos que utiliza.");	
 		
-		addLine("Organismo|Cojuntos de datos|Formatos");
+		mdLine("Organismo | Cojuntos de datos | Formatos");
 		
-		addLine("--|--|--");
+		mdLine("-- | -- | --");
+		
+		csvLine("Organismo"+csvSeparator+"Cojuntos de datos"+csvSeparator+"Formatos");
+		
 		 
 		  for (Map.Entry<String, OrganoPublicador> entry : organos.entrySet())  
 	        {
@@ -47,22 +57,29 @@ public class InformeOrganismoFormatos {
 	            listaFormatos=StringUtils.chop(listaFormatos);
 	            
 	            
-	            addLine(entry.getKey()+"|"+entry.getValue().getDataset().size()+"|"+listaFormatos);
+	            mdLine(entry.getKey()+" | "+entry.getValue().getDataset().size()+" | "+listaFormatos);
+	            csvLine(csvQuote+entry.getKey()+csvQuote+csvSeparator+entry.getValue().getDataset().size()+csvSeparator+csvQuote+listaFormatos+csvQuote);
 	        }
 		  
 		  
 		  
 		  try {
-			FileUtils.writeStringToFile(new File("informes"+File.separator+"organismoFormatos.md"), informe.toString(),"utf-8");
+			FileUtils.writeStringToFile(new File("informes"+File.separator+"organismoFormatos.md"), informeMD.toString(),"utf-8");
+			FileUtils.writeStringToFile(new File("informes"+File.separator+"organismoFormatos.csv"), informeCSV.toString(),"utf-8");
 		} catch (IOException e) {
-			log.error("Error writing doc in disk",e);
+			log.error("Error writing docs in disk",e);
 		}
 		
 	}
 	
-	private static void addLine(String line)
+	private static void mdLine(String line)
 	{
-		informe.append(line+breakLine);
+		informeMD.append(line+breakLine);
+	}
+	
+	private static void csvLine(String line)
+	{
+		informeCSV.append(line+breakLine);
 	}
 
 }
