@@ -14,18 +14,21 @@ public class ConjuntoDatos {
 	
 	private String title;
 	private Set<String> format;
+	private int recursos;
 	
 	
 	public ConjuntoDatos() {
 		super();
 		this.title = "";
 		this.format = new TreeSet<String>();
+		this.recursos=0;
 	}
 	
-	public ConjuntoDatos(String title, TreeSet<String> format) {
+	public ConjuntoDatos(String title, TreeSet<String> format, int recursos) {
 		super();
 		this.title = title;
 		this.format = format;
+		this.recursos=recursos;
 	}
 	
 	
@@ -33,6 +36,7 @@ public class ConjuntoDatos {
 		super();
 		this.title = copia.title;
 		this.format = copia.format;
+		this.recursos=copia.recursos;
 	}
 
 
@@ -53,6 +57,14 @@ public class ConjuntoDatos {
 
 	public void setFormat(Set<String> format) {
 		this.format = format;
+	}
+
+	public int getRecursos() {
+		return recursos;
+	}
+
+	public void setRecursos(int recursos) {
+		this.recursos = recursos;
 	}
 	
 	

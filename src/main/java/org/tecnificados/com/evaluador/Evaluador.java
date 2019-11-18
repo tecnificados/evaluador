@@ -113,6 +113,7 @@ public class Evaluador {
 		String distribuciones=cells.get(COLUMNA_DISTRIBUCIONES);
 		Set<String> formatos=new TreeSet<String>();
 		
+		int recursos=0;
 		String[] split = distribuciones.split("]");
 		for (int j=0;j<split.length;j++)
 		{
@@ -130,11 +131,12 @@ public class Evaluador {
 				}		
 				f=f.replace("\"","");
 				formatos.add(f);
+				recursos++;
 			}
 		}
-	
 		
-		dataset.setFormat(formatos);		
+		dataset.setFormat(formatos);
+		dataset.setRecursos(recursos);
 		org.getDataset().add(dataset);
 		
 		

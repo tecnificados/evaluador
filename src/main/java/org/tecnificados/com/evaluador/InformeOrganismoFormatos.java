@@ -22,9 +22,10 @@ public class InformeOrganismoFormatos {
 	
 	private static final String FORMATOS = "Formatos";
 	private static final String CONJUNTOS_DE_DATOS = "Conjuntos de datos";
+	private static final String RECURSOS = "Recursos";
 	private static final String ORGANISMO = "Organismo";
-	private static final String SEPARADORES = "-- | -- | --";
-	private static final String CABECERAS_TABLA = ORGANISMO+" | "+CONJUNTOS_DE_DATOS+" | "+FORMATOS;
+	private static final String SEPARADORES = "-- | -- | -- | --";
+	private static final String CABECERAS_TABLA = ORGANISMO+" | "+CONJUNTOS_DE_DATOS+" | "+RECURSOS+" | "+FORMATOS;
 	private static final String DESCRIPCION = "En la siguiente tabla listamos cada organismo, el número de conjuntos de datos publicados, y los formatos que utiliza.";
 	private static final String TITULO = "# Informe de Organismos y formatos utilizados";
 
@@ -45,26 +46,31 @@ public class InformeOrganismoFormatos {
 		mdLine(CABECERAS_TABLA);		
 		mdLine(SEPARADORES);
 		
-		csvLine(ORGANISMO+csvSeparator+CONJUNTOS_DE_DATOS+csvSeparator+FORMATOS);
+		csvLine(ORGANISMO+csvSeparator+CONJUNTOS_DE_DATOS+csvSeparator+RECURSOS+csvSeparator+FORMATOS);
 		
 		 
 		  for (Map.Entry<String, OrganoPublicador> entry : organos.entrySet())  
 	        {
 			  	Set<String> diferentesFormatos=new TreeSet<String>();
+			  	
+			  	int numeroRecursos=0;
 	            
 	            List<ConjuntoDatos> dataset = entry.getValue().getDataset();
 	            
+	            
+	            int recursosDataset=0;
 	            for (ConjuntoDatos d:dataset)
 	            {
-	            	diferentesFormatos.addAll(d.getFormat());
+	            	diferentesFormatos.addAll(d.getFormat());	   
+	            	recursosDataset+=d.getRecursos();
 	            }
 	            
 	            String listaFormatos=diferentesFormatos.toString().substring(1);
 	            listaFormatos=StringUtils.chop(listaFormatos);
 	            
 	            
-	            mdLine(entry.getKey()+" | "+entry.getValue().getDataset().size()+" | "+listaFormatos);
-	            csvLine(csvQuote+entry.getKey()+csvQuote+csvSeparator+entry.getValue().getDataset().size()+csvSeparator+csvQuote+listaFormatos+csvQuote);
+	            mdLine(entry.getKey()+" | "+entry.getValue().getDataset().size()+" | "+recursosDataset+" | "+listaFormatos);
+	            csvLine(csvQuote+entry.getKey()+csvQuote+csvSeparator+entry.getValue().getDataset().size()+csvSeparator+recursosDataset+csvSeparator+csvQuote+listaFormatos+csvQuote);
 	        }
 		  
 		  
