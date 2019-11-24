@@ -20,6 +20,7 @@ import org.slf4j.LoggerFactory;
 import org.tecnificados.com.evaluador.bean.ConjuntoDatos;
 import org.tecnificados.com.evaluador.bean.OrganoPublicador;
 import org.tecnificados.com.evaluador.util.Messages;
+import org.tecnificados.com.evaluador.util.StarFormatMap;
 
 /**
  * @author Juan Carlos Ballesteros (tecnificados.com)
@@ -94,6 +95,7 @@ public class App
         //Comenzamos a generar Informes
         InformeOrganismoFormatos.genFiles(organos);
         
+        //log.info( "Map size: "+StarFormatMap.formats.size());
         
         log.info(Messages.getString("App.9")); 
     }
