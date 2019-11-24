@@ -12,6 +12,10 @@ public class Constant {
 
 	public static final String PATH_TO_FILE = "pathToFile"; 
 	
+	public static final String FORMATS = "formats"; 
+	
+	public static String availableFormats; 
+	
 	public static String filePath="fichero.txt"; 
 	
 }

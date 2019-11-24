@@ -11,6 +11,7 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.Properties;
 import java.util.Set;
+import java.util.TreeSet;
 
 import org.apache.commons.io.FileUtils;
 
@@ -48,6 +49,12 @@ public class App
     	}else {
     		log.info(Constant.PATH_TO_FILE+Messages.getString("App.4")+Constant.CONF_PROPERTIES); 
     	}
+    	
+    	if (prop.getProperty(Constant.FORMATS)!=null) {
+    		Constant.availableFormats=prop.getProperty(Constant.FORMATS);
+    	}else {
+    		log.info(Constant.PATH_TO_FILE+Messages.getString("App.4")+Constant.CONF_PROPERTIES); 
+    	}
 		
 	}
 	
@@ -75,7 +82,14 @@ public class App
         
         //TODO generar una tabla de puntuacion para cada formato
         log.info("Los diferentes formatos son: "+diferentesFormatos);
-        //TODO verificar si los formatos no varian de una ejecucion a otra, si varían enumera y lanzar excepcion
+        
+        if (diferentesFormatos.toString().contains(Constant.availableFormats))
+        {
+        	log.info("Los formatos no varian");
+        }else {
+        	log.info("Los formatos han variado");
+        }
+        
         
         //Comenzamos a generar Informes
         InformeOrganismoFormatos.genFiles(organos);
@@ -85,7 +99,7 @@ public class App
     }
 
 	private static Set<String> availableFormats(Map<String, OrganoPublicador> organos) {
-		Set<String> diferentesFormatos=new HashSet<String>();
+		Set<String> diferentesFormatos=new TreeSet<String>();
        
         for (Map.Entry<String, OrganoPublicador> entry : organos.entrySet())  
         {
