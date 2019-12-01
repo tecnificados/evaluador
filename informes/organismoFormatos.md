@@ -33,7 +33,7 @@ Ayuntamiento de Jerez de la Frontera | 1 | 3 | CSV, PDF, XLS
 Ayuntamiento de L'Hospitalet de Llobregat | 2 | 11 | API, CSV, HTML, JSON, RSS, TSV, XML
 Ayuntamiento de Las Palmas de Gran Canaria | 90 | 910 | Atom, CSV, HTML, JSON, JSON-LD, KMZ, ODS, RDF-N3, RDF-Turtle, RDF-XML, RSS, WFS, WMS, XLS, XLSX, ZIP
 Ayuntamiento de Lorca | 188 | 918 | CSV, HTML, JSON, KML, KMZ, PDF, RDF-XML, SHP, XLS, XML, ZIP
-Ayuntamiento de Madrid | 432 | 3771 | CSV, GPX, GZIP, HTML, JSON, KML, KMZ, PDF, RDF-XML, RSS, XLS, XML, XML-APP, ZIP, plain
+Ayuntamiento de Madrid | 432 | 3787 | CSV, GPX, GZIP, HTML, JSON, KML, KMZ, PDF, RDF-XML, RSS, XLS, XML, XML-APP, ZIP, plain
 Ayuntamiento de Manlleu | 7 | 31 | API, CSV, JSON, KML, SHP
 Ayuntamiento de Martos | 3 | 6 | JSON, RSS
 Ayuntamiento de Málaga | 872 | 2080 | CSV, GML, HTML, JSON, KML, KMZ, PDF, RSS, SHP, TSV, XLS, XLSX, ZIP
@@ -43,6 +43,7 @@ Ayuntamiento de San Sebastián de los Reyes | 51 | 98 | CSV, DOC, HTML, ODS, ODT
 Ayuntamiento de Sant Feliu de Llobregat | 47 | 1718 | Atom, CSV, GML, HTML, JSON, JSON-LD, KML, PDF, RDF-N3, RDF-Turtle, RDF-XML, RSS, SHP, TSV, WFS, WMS, XLSX, XML-APP
 Ayuntamiento de Santa Cruz de Tenerife | 90 | 715 | CSV, HTML, JSON, KML, KMZ, PDF, RDF-XML, SHP, XLS, XLSX
 Ayuntamiento de Santander | 88 | 1232 | Atom, CSV, HTML, JSON, JSON-LD, KMZ, OCTET-STREAM, RDF-N3, RDF-Turtle, RDF-XML, RSS, XLS, XML-APP, ZIP
+Ayuntamiento de Tarragona | 1 | 2 | CSV, JSON
 Ayuntamiento de Torrent | 175 | 251 | CSV, JSON, KML, RSS, SHP
 Ayuntamiento de Valencia | 115 | 767 | Atom, CSV, GML, HTML, JSON, JSON-LD, KML, KMZ, OCTET-STREAM, RDF-N3, RDF-Turtle, RDF-XML, RSS, WFS, WMS, XML-APP, ZIP
 Ayuntamiento de Villanueva de la Serena | 46 | 438 | CSV, DOC, DOCX, GeoJSON, HTML, JSON, KML, ODS, ODT, PDF, PNG, RTF, SHP, WMS, XLSX, XML
@@ -63,8 +64,8 @@ Comisión Nacional de los Mercados y la Competencia | 21 | 31 | PDF, XHTML, ZIP
 Comisión Nacional del Mercado de Valores | 14 | 20 | PDF, XBRL, XHTML, XLSX
 Compañia Española de Financiacion del Desarrollo Cofides,, S.A. | 1 | 1 | XHTML
 Comunidad Autónoma de Canarias | 183 | 2811 | CSV, GML, HTML, JSON, KMZ, ODS, PDF, RSS, SHP, XLS, XLSX, ZIP
-Comunidad Autónoma de Castilla-La Mancha | 261 | 495 | CSV, HTML, PDF, SHP, XLS, XLSX, XML, ZIP
-Comunidad Autónoma de País Vasco | 5628 | 14579 | API, ASCII, CSV, CSW, Calendar, ECW, GeoJSON, HTML, JPG, JSON, KML, KMZ, MDB, ODS, PC-Axis, PDF, RDF-Turtle, RDF-XML, RSS, SHP, SPARQL-XML, TBX, TIFF, TMX, WCS, WMS, XLS, XLSX, XML, ZIP, vCard-XML
+Comunidad Autónoma de Castilla-La Mancha | 264 | 502 | CSV, HTML, JSON, PDF, SHP, XLS, XLSX, XML, ZIP
+Comunidad Autónoma de País Vasco | 5631 | 14592 | API, ASCII, CSV, CSW, Calendar, ECW, GeoJSON, HTML, JPG, JSON, KML, KMZ, MDB, ODS, PC-Axis, PDF, RDF-Turtle, RDF-XML, RSS, SHP, SPARQL-XML, TBX, TIFF, TMX, WCS, WMS, XLS, XLSX, XML, ZIP, vCard-XML
 Comunidad de Madrid | 178 | 416 | CSV, DOCX, HTML, JSON, SHP, WMS, XLSX, ZIP
 Concello de Santiago de Compostela | 34 | 63 | CSV, ODS, SHP, XLS
 Confederación Hidrográfica del Guadalquivir | 52 | 619 | HTML, JPG, KMZ, ODS, PDF, PNG, SHP, TIFF, WCS, WFS, WMS, ZIP
@@ -72,7 +73,7 @@ Confederación Hidrográfica del Júcar | 13 | 39 | API, ASCII, CSV, PDF, SHP, X
 Consorcio de la Zona Franca de Cádiz | 4 | 4 | XHTML
 Consorcio de la Zona Franca de Vigo | 4 | 4 | XHTML
 Diputación Foral de Bizkaia | 168 | 2549 | API, CSV, JSON, RDF-Turtle, RDF-XML, RSS, XLSX, XML
-Diputación Foral de Gipuzkoa | 398 | 1728 | API, CSV, JPG, JSON, KML, ODS, PDF, RDF-Turtle, RDF-XML, RSS, TMX, XLS, XLSX, XML
+Diputación Foral de Gipuzkoa | 399 | 1733 | API, CSV, JPG, JSON, KML, ODS, PDF, RDF-Turtle, RDF-XML, RSS, TMX, XLS, XLSX, XML
 Diputación Provincial de Barcelona | 53 | 313 | API, CSV, HTML, JSON, KMZ, PDF, RDF-XML, RSS, SHP, WMS, XLS, XML, ZIP
 Diputación Provincial de Castelló/Castellón | 60 | 630 | CSV, JSON, JSON-LD, RDF-N3, RDF-Turtle, RDF-XML, SHP, XLS, plain
 Diputación Provincial de Cádiz | 52 | 428 | Atom, CSV, GML, HTML, JSON, JSON-LD, KML, ODS, RDF-N3, RDF-Turtle, RDF-XML, RSS, SHP, WMS, XLS, XML-APP
@@ -84,13 +85,14 @@ Fundación Española para la Ciencia y la Tecnología | 14 | 22 | CSV, HTML, RSS
 Fundación Lázaro Galdiano | 2 | 2 | HTML, PDF
 Fundación Pluralismo y Convivencia | 23 | 30 | API, HTML, PDF, XHTML, XLS
 Generalitat Valenciana | 169 | 3476 | CSV, JSON, KML, ODS, PDF, XML
-Gobierno de Aragón | 2737 | 12385 | CSV, Calendar, DGN, DWG, DXF, ELP, GML, HTML, JPG, JSON, KMZ, PC-Axis, PNG, RDF-Turtle, RSS, SCORM, SHP, XLS, XML-APP, ZIP, plain
+Generalitat de Catalunya | 556 | 2070 | CSV, HTML, JSON, KML, KMZ, PDF, RDF-XML, RSS, XLS, XLSX, XML, XML-APP, ZIP, plain
+Gobierno de Aragón | 2739 | 12401 | CSV, Calendar, DGN, DWG, DXF, ELP, GML, HTML, JPG, JSON, KMZ, PC-Axis, PNG, RDF-Turtle, RSS, SCORM, SHP, XLS, XML-APP, ZIP, plain
 Gobierno de La Rioja | 318 | 1102 | CSV, HTML, JSON, OCTET-STREAM, XLS, XML-APP
 Gobierno de las Islas Baleares | 42 | 47 | CSV, KML, RDF-XML, RSS, XML-APP
 ICEX España Exportación e Inversiones, EP E.,, M.P. | 19 | 25 | HTML, PDF, XHTML
 Instituto Geológico y Minero de España | 2254 | 25079 | HTML, JPG, JSON, KMZ, MDB, PDF, SHP, WMS, XLS, XML, ZIP
 Instituto Nacional de Administración Pública | 5 | 5 | HTML, XHTML, XLS
-Instituto Nacional de Estadística | 2062 | 14571 | CSV, HTML, JSON, PC-Axis, XLS, XLSX
+Instituto Nacional de Estadística | 2080 | 14715 | CSV, HTML, JSON, PC-Axis, XLS, XLSX
 Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado | 1 | 4 | XLSX
 Instituto Nacional de Técnica Aeroespacial Esteban Terradas | 8 | 15 | HTML, PDF, XLSX
 Instituto Nacional de la Seguridad Social | 1 | 8 | CSV, XLSX
@@ -113,7 +115,7 @@ Ministerio de Defensa | 3 | 5 | HTML, PDF, XHTML
 Ministerio de Economía y Empresa | 9 | 10 | HTML, XHTML, XLS
 Ministerio de Educación,, Cultura y Deporte | 35 | 50 | CSV, HTML, PC-Axis, SPARQL, XHTML, XLS, ZIP
 Ministerio de Energía,, Turismo y Agenda Digital | 27 | 150 | CSV, HTML, JSON, KML, ODS, PDF, PNG, XLS, XLSX, XML-APP
-Ministerio de Hacienda | 110 | 186 | Atom, CSV, DBF, HTML, MDB, PC-Axis, PDF, RSS, SHP, XBRL, XHTML, XLS, XML, XML-APP, ZIP
+Ministerio de Hacienda | 110 | 187 | Atom, CSV, DBF, HTML, MDB, PC-Axis, PDF, RSS, SHP, XBRL, XHTML, XLS, XML, XML-APP, ZIP
 Ministerio de Industria,, Comercio y Turismo | 2 | 3 | HTML, XHTML, XLS
 Ministerio de Justicia | 26 | 35 | API, CSV, HTML, PDF, RSS, XLSX, XML
 Ministerio de Política Territorial y Función Pública | 67 | 144 | HTML, ODS, PDF, RDF-XML, XHTML, XLS, XLSX

@@ -46,6 +46,8 @@ public class InformeOrganismoFormatos {
 		mdLine(CABECERAS_TABLA);		
 		mdLine(SEPARADORES);
 		
+		informeCSV.append(new String(Constant.bom));
+		
 		csvLine(ORGANISMO+csvSeparator+CONJUNTOS_DE_DATOS+csvSeparator+RECURSOS+csvSeparator+FORMATOS);
 		
 		 

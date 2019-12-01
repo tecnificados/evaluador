@@ -7,6 +7,8 @@ package org.tecnificados.com.evaluador;
 public class Constant {
 
 	public static final String UTF_8 = "utf-8";
+	
+	public static byte[] bom = new byte[] { (byte) 0xEF, (byte) 0xBB, (byte) 0xBF };
 
 	public static final String CONF_PROPERTIES = "conf.properties"; 
 
