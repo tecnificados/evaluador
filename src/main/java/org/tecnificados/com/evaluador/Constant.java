@@ -20,4 +20,6 @@ public class Constant {
 	
 	public static String filePath="fichero.txt"; 
 	
+	
+	
 }

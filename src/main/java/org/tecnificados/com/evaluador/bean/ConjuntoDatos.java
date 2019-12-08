@@ -15,6 +15,7 @@ public class ConjuntoDatos {
 	private String title;
 	private Set<String> format;
 	private int recursos;
+	private int stars;
 	
 	
 	public ConjuntoDatos() {
@@ -22,14 +23,10 @@ public class ConjuntoDatos {
 		this.title = "";
 		this.format = new TreeSet<String>();
 		this.recursos=0;
+		this.stars=0;
 	}
 	
-	public ConjuntoDatos(String title, TreeSet<String> format, int recursos) {
-		super();
-		this.title = title;
-		this.format = format;
-		this.recursos=recursos;
-	}
+	
 	
 	
 	public ConjuntoDatos(ConjuntoDatos copia) {
@@ -37,6 +34,7 @@ public class ConjuntoDatos {
 		this.title = copia.title;
 		this.format = copia.format;
 		this.recursos=copia.recursos;
+		this.stars=copia.stars;
 	}
 
 
@@ -65,6 +63,20 @@ public class ConjuntoDatos {
 
 	public void setRecursos(int recursos) {
 		this.recursos = recursos;
+	}
+
+
+
+
+	public int getStars() {
+		return stars;
+	}
+
+
+
+
+	public void setStars(int stars) {
+		this.stars = stars;
 	}
 	
 	

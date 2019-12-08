@@ -79,6 +79,11 @@ public class App
         
         Map<String, OrganoPublicador> organos=Evaluador.evaluaLineas(readedLines);
         
+        for (Map.Entry<String, OrganoPublicador> entry : organos.entrySet())  
+        {
+        	 entry.getValue().statusGenerator();             
+        }
+        
         Set<String> diferentesFormatos = availableFormats(organos);
         
         //TODO generar una tabla de puntuacion para cada formato
@@ -107,12 +112,16 @@ public class App
         {
             log.info( entry.getKey() + "," + entry.getValue().getDataset().size()); 
             
+        	log.info(entry.getValue().getStatus().toString());
+        	
             List<ConjuntoDatos> dataset = entry.getValue().getDataset();
             
             for (ConjuntoDatos d:dataset)
             {
             	diferentesFormatos.addAll(d.getFormat());
             }
+            
+            
             
         }
 		return diferentesFormatos;

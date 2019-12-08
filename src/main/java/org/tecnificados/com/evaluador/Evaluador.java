@@ -12,6 +12,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.tecnificados.com.evaluador.bean.ConjuntoDatos;
 import org.tecnificados.com.evaluador.bean.OrganoPublicador;
+import org.tecnificados.com.evaluador.util.FormatMap;
 
 
 /**
@@ -137,12 +138,33 @@ public class Evaluador {
 		
 		dataset.setFormat(formatos);
 		dataset.setRecursos(recursos);
+		
+		int maxStar = maxStarCalculator(formatos);
+		
+		dataset.setStars(maxStar);
+		
+		
 		org.getDataset().add(dataset);
+		
 		
 		
 		
 		return org;
 		
+	}
+
+	private static int maxStarCalculator(Set<String> formatos) {
+		int maxStar=0;
+		for (String f:formatos)
+		{
+			f=f.toLowerCase();			
+			int actualStar=FormatMap.formats.get(f).intValue();
+			if (actualStar>maxStar)
+			{
+				maxStar=actualStar;
+			}
+		}
+		return maxStar;
 	}
 
 }
