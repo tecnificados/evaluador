@@ -28,7 +28,7 @@ public class InformeOrganismoEstrellas {
 	private static final String ESTRELLAS_4 = "4 Estrellas";
 	private static final String ORGANISMO = "Organismo";
 	private static final String CONJUNTOS_DE_DATOS = "Conjuntos de datos";
-	private static final String SEPARADORES = "-- | -- | -- | --";
+	private static final String SEPARADORES = "-- | -- | -- | --| --| --| --";
 	private static final String CABECERAS_TABLA = ORGANISMO+" | "+CONJUNTOS_DE_DATOS+" | "+ESTRELLAS_0+" | "+ESTRELLAS_1+" | "+ESTRELLAS_2+" | "+ESTRELLAS_3+" | "+ESTRELLAS_4;
 	private static final String DESCRIPCION = "En la siguiente tabla listamos por cada organismo, los diversos conjuntos de datos puntuados hasta cuatro estrellas";
 	private static final String TITULO = "# Informe de Organismos y conjuntos de datos agrupados por su puntuación";

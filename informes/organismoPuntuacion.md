@@ -2,7 +2,7 @@
 En la siguiente tabla listamos por cada organismo, los diversos conjuntos de datos puntuados hasta cuatro estrellas
 
 Organismo | Conjuntos de datos | No evaluables | 1 Estrella | 2 Estrellas | 3 Estrellas | 4 Estrellas
--- | -- | -- | --
+-- | -- | -- | --| --| --| --
 Agencia Española de Protección de Datos | 2 | 0 | 2 | 0 | 0 | 0
 Agencia Estatal Boletín Oficial del Estado | 10 | 0 | 0 | 10 | 0 | 0
 Agencia Estatal Consejo Superior de Investigaciones Científicas | 16 | 0 | 0 | 16 | 0 | 0
