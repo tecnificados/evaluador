@@ -99,6 +99,7 @@ public class App
         
         //Comenzamos a generar Informes
         InformeOrganismoFormatos.genFiles(organos);
+        InformeOrganismoEstrellas.genFiles(organos);
         
         //log.info( "Map size: "+StarFormatMap.formats.size());
         
