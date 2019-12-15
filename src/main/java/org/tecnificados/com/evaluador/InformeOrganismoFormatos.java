@@ -40,6 +40,10 @@ public class InformeOrganismoFormatos {
 
 	public static void genFiles(Map<String, OrganoPublicador> organos) {
 		
+		informeMD=new StringBuffer();
+		informeCSV=new StringBuffer();
+		
+		
 		mdLine(TITULO);		
 		mdLine(DESCRIPCION);		
 		mdLine("");		

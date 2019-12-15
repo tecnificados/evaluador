@@ -11,6 +11,7 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.Properties;
 import java.util.Set;
+import java.util.TreeMap;
 import java.util.TreeSet;
 
 import org.apache.commons.io.FileUtils;
@@ -86,7 +87,7 @@ public class App
         
         Set<String> diferentesFormatos = availableFormats(organos);
         
-        //TODO generar una tabla de puntuacion para cada formato
+        
         log.info("Los diferentes formatos son: "+diferentesFormatos);
         
         if (diferentesFormatos.toString().contains(Constant.availableFormats))
@@ -96,10 +97,23 @@ public class App
         	log.info("Los formatos han variado");
         }
         
+        Map<String, OrganoPublicador> ayuntamientos=new TreeMap<String, OrganoPublicador>();
+        for (Map.Entry<String, OrganoPublicador> entry : organos.entrySet()) {
+            //System.out.println(entry.getKey() + "/" + entry.getValue());
+            if (entry.getKey().toLowerCase().contains("ayuntamiento"))
+            {
+            	ayuntamientos.put(entry.getKey(), entry.getValue());
+            }
+        }
         
         //Comenzamos a generar Informes
         InformeOrganismoFormatos.genFiles(organos);
-        InformeOrganismoEstrellas.genFiles(organos);
+        InformeOrganismoEstrellas.genFiles(organos,null);
+        
+        log.info("Hay "+ayuntamientos.size()+" ayuntamientos");
+        
+        InformeOrganismoEstrellas.genFiles(ayuntamientos,"ayuntamientoPuntuacion");
+        
         
         //log.info( "Map size: "+StarFormatMap.formats.size());
         

@@ -42,7 +42,15 @@ public class InformeOrganismoEstrellas {
 	private static String csvSeparator=";";
 	private static String csvQuote="\"";
 
-	public static void genFiles(Map<String, OrganoPublicador> organos) {
+	public static void genFiles(Map<String, OrganoPublicador> organos, String fileName) {
+		
+		if ((fileName==null)||(fileName.equals("")))
+		{
+			fileName="organismoPuntuacion";
+		}
+		
+		informeMD=new StringBuffer();
+		informeCSV=new StringBuffer();
 		
 		mdLine(TITULO);		
 		mdLine(DESCRIPCION);		
@@ -69,8 +77,8 @@ public class InformeOrganismoEstrellas {
 		  
 		  
 		  try {
-			FileUtils.writeStringToFile(new File("informes"+File.separator+"organismoPuntuacion.md"), informeMD.toString(),"utf-8");
-			FileUtils.writeStringToFile(new File("informes"+File.separator+"organismoPuntuacion.csv"), informeCSV.toString(),"utf-8");
+			FileUtils.writeStringToFile(new File("informes"+File.separator+fileName+".md"), informeMD.toString(),"utf-8");
+			FileUtils.writeStringToFile(new File("informes"+File.separator+fileName+".csv"), informeCSV.toString(),"utf-8");
 		} catch (IOException e) {
 			log.error("Error writing docs in disk",e);
 		}
