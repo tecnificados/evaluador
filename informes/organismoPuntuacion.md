@@ -21,9 +21,9 @@ Autoridad Portuaria de Santander | 5 | 0 | 1 | 4 | 0 | 0
 Autoridad Portuaria de Tarragona | 4 | 0 | 0 | 1 | 3 | 0
 Ayuntamiento de Alcobendas | 199 | 0 | 0 | 0 | 191 | 8
 Ayuntamiento de Alcoy | 20 | 0 | 0 | 0 | 20 | 0
-Ayuntamiento de Arganda del Rey | 623 | 0 | 18 | 6 | 599 | 0
+Ayuntamiento de Arganda del Rey | 625 | 0 | 18 | 6 | 601 | 0
 Ayuntamiento de Badia del Vallès | 11 | 0 | 0 | 0 | 0 | 11
-Ayuntamiento de Barcelona | 465 | 29 | 0 | 30 | 385 | 21
+Ayuntamiento de Barcelona | 462 | 29 | 0 | 30 | 382 | 21
 Ayuntamiento de Bilbao | 190 | 0 | 0 | 12 | 176 | 2
 Ayuntamiento de Cartagena | 20 | 0 | 0 | 0 | 0 | 20
 Ayuntamiento de Cáceres | 116 | 0 | 0 | 0 | 0 | 116
@@ -33,10 +33,10 @@ Ayuntamiento de Jerez de la Frontera | 1 | 0 | 0 | 0 | 1 | 0
 Ayuntamiento de L'Hospitalet de Llobregat | 2 | 0 | 0 | 0 | 2 | 0
 Ayuntamiento de Las Palmas de Gran Canaria | 90 | 0 | 0 | 0 | 63 | 27
 Ayuntamiento de Lorca | 188 | 1 | 0 | 4 | 179 | 4
-Ayuntamiento de Madrid | 434 | 33 | 0 | 75 | 256 | 70
+Ayuntamiento de Madrid | 436 | 33 | 0 | 75 | 258 | 70
 Ayuntamiento de Manlleu | 7 | 0 | 0 | 0 | 7 | 0
 Ayuntamiento de Martos | 3 | 0 | 0 | 0 | 3 | 0
-Ayuntamiento de Málaga | 872 | 7 | 31 | 239 | 595 | 0
+Ayuntamiento de Málaga | 875 | 7 | 33 | 239 | 596 | 0
 Ayuntamiento de Pamplona | 14 | 2 | 0 | 7 | 5 | 0
 Ayuntamiento de Rivas-Vaciamadrid | 57 | 0 | 0 | 1 | 48 | 8
 Ayuntamiento de San Sebastián de los Reyes | 51 | 0 | 0 | 36 | 15 | 0
@@ -64,8 +64,8 @@ Comisión Nacional de los Mercados y la Competencia | 21 | 1 | 0 | 20 | 0 | 0
 Comisión Nacional del Mercado de Valores | 14 | 0 | 0 | 11 | 3 | 0
 Compañia Española de Financiacion del Desarrollo Cofides,, S.A. | 1 | 0 | 0 | 1 | 0 | 0
 Comunidad Autónoma de Canarias | 183 | 9 | 3 | 116 | 55 | 0
-Comunidad Autónoma de Castilla-La Mancha | 261 | 1 | 22 | 181 | 57 | 0
-Comunidad Autónoma de País Vasco | 5635 | 52 | 192 | 883 | 4492 | 16
+Comunidad Autónoma de Castilla-La Mancha | 262 | 0 | 23 | 182 | 57 | 0
+Comunidad Autónoma de País Vasco | 5644 | 52 | 192 | 883 | 4501 | 16
 Comunidad de Madrid | 178 | 1 | 0 | 52 | 125 | 0
 Concello de Santiago de Compostela | 34 | 0 | 0 | 6 | 28 | 0
 Confederación Hidrográfica del Guadalquivir | 52 | 0 | 0 | 5 | 47 | 0
@@ -85,14 +85,14 @@ Fundación Española para la Ciencia y la Tecnología | 14 | 0 | 0 | 3 | 11 | 0
 Fundación Lázaro Galdiano | 2 | 0 | 1 | 1 | 0 | 0
 Fundación Pluralismo y Convivencia | 23 | 0 | 12 | 11 | 0 | 0
 Generalitat Valenciana | 169 | 0 | 2 | 0 | 167 | 0
-Generalitat de Catalunya | 558 | 2 | 2 | 166 | 122 | 266
-Gobierno de Aragón | 2741 | 21 | 16 | 725 | 1214 | 765
+Generalitat de Catalunya | 559 | 2 | 2 | 166 | 122 | 267
+Gobierno de Aragón | 2742 | 21 | 16 | 725 | 1215 | 765
 Gobierno de La Rioja | 318 | 3 | 0 | 30 | 285 | 0
 Gobierno de las Islas Baleares | 42 | 4 | 0 | 0 | 24 | 14
 ICEX España Exportación e Inversiones, EP E.,, M.P. | 19 | 0 | 0 | 19 | 0 | 0
 Instituto Geológico y Minero de España | 2254 | 0 | 620 | 407 | 1227 | 0
 Instituto Nacional de Administración Pública | 5 | 0 | 0 | 5 | 0 | 0
-Instituto Nacional de Estadística | 2017 | 0 | 0 | 275 | 1742 | 0
+Instituto Nacional de Estadística | 2028 | 0 | 0 | 275 | 1753 | 0
 Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado | 1 | 0 | 0 | 1 | 0 | 0
 Instituto Nacional de Técnica Aeroespacial Esteban Terradas | 8 | 0 | 2 | 6 | 0 | 0
 Instituto Nacional de la Seguridad Social | 1 | 0 | 0 | 0 | 1 | 0
@@ -104,10 +104,10 @@ Instituto de Salud Carlos III | 4 | 0 | 0 | 4 | 0 | 0
 Instituto de Turismo de España | 5 | 0 | 0 | 5 | 0 | 0
 Instituto de Turismo de la Región de Murcia (ITREM) | 67 | 0 | 0 | 0 | 0 | 67
 Jefatura Central de Tráfico | 13 | 0 | 1 | 5 | 7 | 0
-Junta de Andalucía | 294 | 0 | 4 | 95 | 120 | 75
+Junta de Andalucía | 302 | 0 | 4 | 96 | 127 | 75
 Junta de Castilla y León | 501 | 3 | 0 | 140 | 348 | 10
 Mercados Centrales de Abastecimiento S.A. | 1 | 0 | 0 | 1 | 0 | 0
-Ministerio de Agricultura y Pesca,, Alimentación y Medio Ambiente | 90 | 1 | 44 | 33 | 12 | 0
+Ministerio de Agricultura y Pesca,, Alimentación y Medio Ambiente | 89 | 0 | 44 | 33 | 12 | 0
 Ministerio de Agricultura,, Pesca y Alimentación | 3 | 0 | 0 | 3 | 0 | 0
 Ministerio de Asuntos Exteriores y de Cooperación | 15 | 0 | 7 | 7 | 1 | 0
 Ministerio de Ciencia,, Innovación y Universidades | 2 | 0 | 0 | 2 | 0 | 0
@@ -123,7 +123,7 @@ Ministerio de Sanidad,, Consumo y Bienestar Social | 14 | 0 | 0 | 7 | 7 | 0
 Ministerio de Trabajo,, Migraciones y Seguridad Social | 10 | 0 | 1 | 9 | 0 | 0
 Ministerio de la Presidencia,, Relaciones con las Cortes e Igualdad | 30 | 0 | 3 | 11 | 16 | 0
 Ministerio del Interior | 86 | 5 | 1 | 35 | 45 | 0
-Ministerio para la Transición Ecológica | 9 | 0 | 1 | 5 | 0 | 3
+Ministerio para la Transición Ecológica | 10 | 0 | 2 | 5 | 0 | 3
 Oficina Española de Patentes y Marcas | 18 | 0 | 2 | 15 | 1 | 0
 Organismo Autónomo Parques Nacionales | 12 | 0 | 0 | 12 | 0 | 0
 Parlamento de Canarias | 33 | 0 | 0 | 0 | 33 | 0
@@ -139,6 +139,6 @@ Tesorería General de la Seguridad Social | 1 | 0 | 0 | 0 | 1 | 0
 Trabajo Penitenciario y Formación para el Empleo | 4 | 0 | 0 | 0 | 4 | 0
 Universidad Pablo de Olavide | 13 | 0 | 0 | 0 | 2 | 11
 Universidad de Castilla-La Mancha | 12 | 0 | 0 | 0 | 12 | 0
-Universidad de Extremadura | 102 | 0 | 0 | 0 | 0 | 102
+Universidad de Extremadura | 103 | 0 | 0 | 0 | 0 | 103
 Universidad de Zaragoza | 94 | 0 | 0 | 0 | 94 | 0
 Xunta de Galicia | 323 | 7 | 41 | 68 | 205 | 2
