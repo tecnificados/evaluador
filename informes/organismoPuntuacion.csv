@@ -15,11 +15,11 @@
 "Autoridad Portuaria de Motril";8;0;0;8;0;0
 "Autoridad Portuaria de Santander";5;0;1;4;0;0
 "Autoridad Portuaria de Tarragona";4;0;0;1;3;0
-"Ayuntamiento de Alcobendas";199;0;0;0;191;8
+"Ayuntamiento de Alcobendas";200;0;0;0;192;8
 "Ayuntamiento de Alcoy";20;0;0;0;20;0
-"Ayuntamiento de Arganda del Rey";625;0;18;6;601;0
+"Ayuntamiento de Arganda del Rey";641;0;18;6;617;0
 "Ayuntamiento de Badia del Vallès";11;0;0;0;0;11
-"Ayuntamiento de Barcelona";462;29;0;30;382;21
+"Ayuntamiento de Barcelona";459;29;0;30;379;21
 "Ayuntamiento de Bilbao";190;0;0;12;176;2
 "Ayuntamiento de Cartagena";20;0;0;0;0;20
 "Ayuntamiento de Cáceres";116;0;0;0;0;116
@@ -29,12 +29,12 @@
 "Ayuntamiento de L'Hospitalet de Llobregat";2;0;0;0;2;0
 "Ayuntamiento de Las Palmas de Gran Canaria";90;0;0;0;63;27
 "Ayuntamiento de Lorca";188;1;0;4;179;4
-"Ayuntamiento de Madrid";436;33;0;75;258;70
+"Ayuntamiento de Madrid";437;33;0;75;259;70
 "Ayuntamiento de Manlleu";7;0;0;0;7;0
 "Ayuntamiento de Martos";3;0;0;0;3;0
-"Ayuntamiento de Málaga";875;7;33;239;596;0
+"Ayuntamiento de Málaga";876;7;33;239;597;0
 "Ayuntamiento de Pamplona";14;2;0;7;5;0
-"Ayuntamiento de Rivas-Vaciamadrid";57;0;0;1;48;8
+"Ayuntamiento de Rivas-Vaciamadrid";59;0;0;1;50;8
 "Ayuntamiento de San Sebastián de los Reyes";51;0;0;36;15;0
 "Ayuntamiento de Sant Feliu de Llobregat";47;0;1;1;8;37
 "Ayuntamiento de Santa Cruz de Tenerife";90;0;0;2;21;67
@@ -46,7 +46,7 @@
 "Ayuntamiento de Vitoria-Gasteiz";150;8;2;60;80;0
 "Ayuntamiento de Zaragoza";136;55;0;16;62;3
 "Ayuntamiento de la Pobla de Vallbona";2;0;0;1;1;0
-"Biblioteca Nacional de España";263;0;0;1;259;3
+"Biblioteca Nacional de España";268;0;0;1;264;3
 "Cabildo Insular de Tenerife";25;0;0;7;18;0
 "Centro Nacional de Información Geográfica";77;3;9;56;9;0
 "Centro de Estudios Jurídicos";1;0;0;1;0;0
@@ -60,18 +60,18 @@
 "Comisión Nacional del Mercado de Valores";14;0;0;11;3;0
 "Compañia Española de Financiacion del Desarrollo Cofides,, S.A.";1;0;0;1;0;0
 "Comunidad Autónoma de Canarias";183;9;3;116;55;0
-"Comunidad Autónoma de Castilla-La Mancha";262;0;23;182;57;0
-"Comunidad Autónoma de País Vasco";5644;52;192;883;4501;16
+"Comunidad Autónoma de Castilla-La Mancha";263;0;23;182;58;0
+"Comunidad Autónoma de País Vasco";5655;52;192;882;4513;16
 "Comunidad de Madrid";178;1;0;52;125;0
 "Concello de Santiago de Compostela";34;0;0;6;28;0
 "Confederación Hidrográfica del Guadalquivir";52;0;0;5;47;0
-"Confederación Hidrográfica del Júcar";13;0;1;1;11;0
+"Confederación Hidrográfica del Júcar";13;0;1;0;12;0
 "Consorcio de la Zona Franca de Cádiz";4;0;0;4;0;0
 "Consorcio de la Zona Franca de Vigo";4;0;0;4;0;0
 "Diputación Foral de Bizkaia";168;0;0;0;167;1
 "Diputación Foral de Gipuzkoa";399;3;37;63;295;1
 "Diputación Provincial de Barcelona";53;0;0;16;15;22
-"Diputación Provincial de Castelló/Castellón";60;0;0;0;0;60
+"Diputación Provincial de Castelló/Castellón";67;0;0;0;0;67
 "Diputación Provincial de Cádiz";52;0;0;0;15;37
 "Diputación de Pontevedra";28;0;0;28;0;0
 "Entidad Estatal de Seguros Agrarios";1;0;0;1;0;0
@@ -81,14 +81,14 @@
 "Fundación Lázaro Galdiano";2;0;1;1;0;0
 "Fundación Pluralismo y Convivencia";23;0;12;11;0;0
 "Generalitat Valenciana";169;0;2;0;167;0
-"Generalitat de Catalunya";559;2;2;166;122;267
-"Gobierno de Aragón";2742;21;16;725;1215;765
+"Generalitat de Catalunya";565;2;2;166;122;273
+"Gobierno de Aragón";2750;22;16;724;1223;765
 "Gobierno de La Rioja";318;3;0;30;285;0
 "Gobierno de las Islas Baleares";42;4;0;0;24;14
 "ICEX España Exportación e Inversiones, EP E.,, M.P.";19;0;0;19;0;0
 "Instituto Geológico y Minero de España";2254;0;620;407;1227;0
 "Instituto Nacional de Administración Pública";5;0;0;5;0;0
-"Instituto Nacional de Estadística";2028;0;0;275;1753;0
+"Instituto Nacional de Estadística";1951;0;0;272;1679;0
 "Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado";1;0;0;1;0;0
 "Instituto Nacional de Técnica Aeroespacial Esteban Terradas";8;0;2;6;0;0
 "Instituto Nacional de la Seguridad Social";1;0;0;0;1;0
@@ -100,8 +100,8 @@
 "Instituto de Turismo de España";5;0;0;5;0;0
 "Instituto de Turismo de la Región de Murcia (ITREM)";67;0;0;0;0;67
 "Jefatura Central de Tráfico";13;0;1;5;7;0
-"Junta de Andalucía";302;0;4;96;127;75
-"Junta de Castilla y León";501;3;0;140;348;10
+"Junta de Andalucía";310;0;4;98;133;75
+"Junta de Castilla y León";505;3;0;140;352;10
 "Mercados Centrales de Abastecimiento S.A.";1;0;0;1;0;0
 "Ministerio de Agricultura y Pesca,, Alimentación y Medio Ambiente";89;0;44;33;12;0
 "Ministerio de Agricultura,, Pesca y Alimentación";3;0;0;3;0;0
@@ -126,7 +126,7 @@
 "Puertos del Estado";10;0;1;8;1;0
 "Real Patronato sobre Discapacidad";3;0;0;3;0;0
 "Red.es";33;1;4;8;19;1
-"Región de Murcia";478;1;0;169;248;60
+"Región de Murcia";479;1;0;169;249;60
 "S. de E. de la Seguridad Social";2;0;0;1;1;0
 "Servicio Público de Empleo Estatal";4;0;0;0;4;0
 "Sociedad Estatal de Participaciones Industriales";17;0;14;3;0;0

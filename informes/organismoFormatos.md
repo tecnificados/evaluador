@@ -19,11 +19,11 @@ Autoridad Portuaria de Melilla | 3 | 3 | HTML
 Autoridad Portuaria de Motril | 8 | 18 | HTML, PDF
 Autoridad Portuaria de Santander | 5 | 5 | HTML, PDF, XHTML
 Autoridad Portuaria de Tarragona | 4 | 4 | CSV, KMZ, XLS
-Ayuntamiento de Alcobendas | 199 | 887 | CSV, JSON, JSON-LD, KML, ODS, ODT, PDF, RDF-XML, RSS, XLS, XLSX, XML, ZIP
+Ayuntamiento de Alcobendas | 200 | 892 | CSV, JSON, JSON-LD, KML, ODS, ODT, PDF, RDF-XML, RSS, SHP, XLS, XLSX, XML, ZIP
 Ayuntamiento de Alcoy | 20 | 58 | CSV, GeoJSON, JSON, KML, ZIP
-Ayuntamiento de Arganda del Rey | 625 | 2162 | CSV, HTML, JPG, JSON, KML, PDF, SHP, XLS, XLSX
+Ayuntamiento de Arganda del Rey | 641 | 2210 | CSV, HTML, JPG, JSON, KML, PDF, SHP, XLS, XLSX
 Ayuntamiento de Badia del Vallès | 11 | 108 | CSV, JSON, JSON-LD, RDF-N3, RDF-Turtle, RDF-XML, SHP, XLS, plain
-Ayuntamiento de Barcelona | 462 | 2352 | CSV, Calendar, HTML, JSON, KML, KMZ, OCTET-STREAM, RDF-XML, SHP, TIFF, WMS, XLS, XLSX, XML-APP, ZIP, plain
+Ayuntamiento de Barcelona | 459 | 2365 | CSV, Calendar, HTML, JSON, KML, KMZ, OCTET-STREAM, RDF-XML, SHP, TIFF, WMS, XLS, XLSX, XML-APP, ZIP, plain
 Ayuntamiento de Bilbao | 190 | 245 | CSV, JSON, RDF-XML, RSS, WMS, XML-APP
 Ayuntamiento de Cartagena | 20 | 67 | CSV, HTML, RDF-Turtle, RDF-XML
 Ayuntamiento de Cáceres | 116 | 914 | CSV, GeoJSON, JSON, OCTET-STREAM, PDF, RDF-Turtle, SPARQL, XLS, ZIP
@@ -33,12 +33,12 @@ Ayuntamiento de Jerez de la Frontera | 1 | 3 | CSV, PDF, XLS
 Ayuntamiento de L'Hospitalet de Llobregat | 2 | 11 | API, CSV, HTML, JSON, RSS, TSV, XML
 Ayuntamiento de Las Palmas de Gran Canaria | 90 | 910 | Atom, CSV, HTML, JSON, JSON-LD, KMZ, ODS, RDF-N3, RDF-Turtle, RDF-XML, RSS, WFS, WMS, XLS, XLSX, ZIP
 Ayuntamiento de Lorca | 188 | 918 | CSV, HTML, JSON, KML, KMZ, PDF, RDF-XML, SHP, XLS, XML, ZIP
-Ayuntamiento de Madrid | 436 | 3828 | CSV, GPX, GZIP, HTML, JSON, KML, KMZ, PDF, RDF-XML, RSS, XLS, XML, XML-APP, ZIP, plain
+Ayuntamiento de Madrid | 437 | 3893 | CSV, GPX, GZIP, HTML, JSON, KML, KMZ, PDF, RDF-XML, RSS, XLS, XML, XML-APP, ZIP, plain
 Ayuntamiento de Manlleu | 7 | 31 | API, CSV, JSON, KML, SHP
 Ayuntamiento de Martos | 3 | 6 | JSON, RSS
-Ayuntamiento de Málaga | 875 | 2116 | CSV, GML, HTML, JSON, KML, KMZ, PDF, RSS, SHP, TSV, XLS, XLSX, ZIP
+Ayuntamiento de Málaga | 876 | 2126 | CSV, GML, HTML, JSON, KML, KMZ, PDF, RSS, SHP, TSV, XLS, XLSX, ZIP
 Ayuntamiento de Pamplona | 14 | 35 | CSV, PDF, XLS, XML, XML-APP
-Ayuntamiento de Rivas-Vaciamadrid | 57 | 322 | CSV, JSON, JSON-LD, KML, RDF-XML, SHP, XLS, XLSX, ZIP
+Ayuntamiento de Rivas-Vaciamadrid | 59 | 328 | CSV, JSON, JSON-LD, KML, RDF-XML, SHP, XLS, XLSX, ZIP
 Ayuntamiento de San Sebastián de los Reyes | 51 | 98 | CSV, DOC, HTML, ODS, ODT, XLS
 Ayuntamiento de Sant Feliu de Llobregat | 47 | 1718 | Atom, CSV, GML, HTML, JSON, JSON-LD, KML, PDF, RDF-N3, RDF-Turtle, RDF-XML, RSS, SHP, TSV, WFS, WMS, XLSX, XML-APP
 Ayuntamiento de Santa Cruz de Tenerife | 90 | 715 | CSV, HTML, JSON, KML, KMZ, PDF, RDF-XML, SHP, XLS, XLSX
@@ -50,7 +50,7 @@ Ayuntamiento de Villanueva de la Serena | 46 | 438 | CSV, DOC, DOCX, GeoJSON, HT
 Ayuntamiento de Vitoria-Gasteiz | 150 | 462 | CSV, HTML, JSON, OCTET-STREAM, ODS, ODT, PDF, RSS, TIFF, XLS, XML, XML-APP, plain
 Ayuntamiento de Zaragoza | 136 | 393 | API, Atom, CSV, DWG, DjVu, GeoRSS, HTML, JSON, N3, ODS, PDF, RDF-XML, RSS, SOAP, SPARQL, SPARQL-JSON, SPARQL-XML, Solr, TURTLE, WMS-XML, XLS, XML, ZIP
 Ayuntamiento de la Pobla de Vallbona | 2 | 7 | CSV, HTML
-Biblioteca Nacional de España | 263 | 1721 | API, CSV, HTML, JSON, MARC, ODS, PDF, RDF-Turtle, XLS, XLSX, XML, plain
+Biblioteca Nacional de España | 268 | 1756 | API, CSV, HTML, JSON, MARC, ODS, PDF, RDF-Turtle, XLS, XLSX, XML, plain
 Cabildo Insular de Tenerife | 25 | 82 | CSV, GeoJSON, XLS
 Centro Nacional de Información Geográfica | 77 | 186 | ASCII, Atom, CSV, DGN, ECW, GDB, JPG, KML, LAS, MDB, PDF, SHP, TIFF, WCS, WFS, WMS, XLS, ZIP
 Centro de Estudios Jurídicos | 1 | 1 | HTML
@@ -64,18 +64,18 @@ Comisión Nacional de los Mercados y la Competencia | 21 | 31 | PDF, XHTML, ZIP
 Comisión Nacional del Mercado de Valores | 14 | 20 | PDF, XBRL, XHTML, XLSX
 Compañia Española de Financiacion del Desarrollo Cofides,, S.A. | 1 | 1 | XHTML
 Comunidad Autónoma de Canarias | 183 | 2811 | CSV, GML, HTML, JSON, KMZ, ODS, PDF, RSS, SHP, XLS, XLSX, ZIP
-Comunidad Autónoma de Castilla-La Mancha | 262 | 501 | CSV, HTML, JSON, PDF, SHP, XLS, XLSX, XML, ZIP
-Comunidad Autónoma de País Vasco | 5644 | 14635 | API, ASCII, CSV, CSW, Calendar, ECW, GeoJSON, HTML, JPG, JSON, KML, KMZ, MDB, ODS, PC-Axis, PDF, RDF-Turtle, RDF-XML, RSS, SHP, SPARQL-XML, TBX, TIFF, TMX, WCS, WMS, XLS, XLSX, XML, ZIP, vCard-XML
-Comunidad de Madrid | 178 | 416 | CSV, DOCX, HTML, JSON, SHP, WMS, XLSX, ZIP
+Comunidad Autónoma de Castilla-La Mancha | 263 | 506 | CSV, HTML, JSON, PDF, SHP, XLS, XLSX, XML, ZIP
+Comunidad Autónoma de País Vasco | 5655 | 14721 | API, ASCII, CSV, CSW, Calendar, ECW, GeoJSON, HTML, JPG, JSON, KML, KMZ, MDB, ODS, PC-Axis, PDF, RDF-Turtle, RDF-XML, RSS, SHP, SPARQL-XML, TBX, TIFF, TMX, WCS, WMS, XLS, XLSX, XML, ZIP, vCard-XML
+Comunidad de Madrid | 178 | 417 | CSV, DOCX, HTML, JSON, SHP, WMS, XLSX, ZIP
 Concello de Santiago de Compostela | 34 | 63 | CSV, ODS, SHP, XLS
 Confederación Hidrográfica del Guadalquivir | 52 | 619 | HTML, JPG, KMZ, ODS, PDF, PNG, SHP, TIFF, WCS, WFS, WMS, ZIP
-Confederación Hidrográfica del Júcar | 13 | 39 | API, ASCII, CSV, PDF, SHP, XHTML, XML-APP
+Confederación Hidrográfica del Júcar | 13 | 50 | CSV, HTML, PDF, SHP, XML, XML-APP
 Consorcio de la Zona Franca de Cádiz | 4 | 4 | XHTML
 Consorcio de la Zona Franca de Vigo | 4 | 4 | XHTML
 Diputación Foral de Bizkaia | 168 | 2549 | API, CSV, JSON, RDF-Turtle, RDF-XML, RSS, XLSX, XML
 Diputación Foral de Gipuzkoa | 399 | 1733 | API, CSV, JPG, JSON, KML, ODS, PDF, RDF-Turtle, RDF-XML, RSS, TMX, XLS, XLSX, XML
 Diputación Provincial de Barcelona | 53 | 313 | API, CSV, HTML, JSON, KMZ, PDF, RDF-XML, RSS, SHP, WMS, XLS, XML, ZIP
-Diputación Provincial de Castelló/Castellón | 60 | 630 | CSV, JSON, JSON-LD, RDF-N3, RDF-Turtle, RDF-XML, SHP, XLS, plain
+Diputación Provincial de Castelló/Castellón | 67 | 682 | CSV, GML, JSON, JSON-LD, KML, KMZ, OCTET-STREAM, RDF-N3, RDF-Turtle, RDF-XML, SHP, XLS, XLSX, XML, plain
 Diputación Provincial de Cádiz | 52 | 428 | Atom, CSV, GML, HTML, JSON, JSON-LD, KML, ODS, RDF-N3, RDF-Turtle, RDF-XML, RSS, SHP, WMS, XLS, XML-APP
 Diputación de Pontevedra | 28 | 31 | SHP, WMS, XLSX
 Entidad Estatal de Seguros Agrarios | 1 | 1 | HTML
@@ -85,14 +85,14 @@ Fundación Española para la Ciencia y la Tecnología | 14 | 22 | CSV, HTML, RSS
 Fundación Lázaro Galdiano | 2 | 2 | HTML, PDF
 Fundación Pluralismo y Convivencia | 23 | 30 | API, HTML, PDF, XHTML, XLS
 Generalitat Valenciana | 169 | 3476 | CSV, JSON, KML, ODS, PDF, XML
-Generalitat de Catalunya | 559 | 2082 | CSV, HTML, JSON, KML, KMZ, PDF, RDF-XML, RSS, XLS, XLSX, XML, XML-APP, ZIP, plain
-Gobierno de Aragón | 2742 | 12415 | CSV, Calendar, DGN, DWG, DXF, ELP, GML, HTML, JPG, JSON, KMZ, PC-Axis, PNG, RDF-Turtle, RSS, SCORM, SHP, XLS, XML-APP, ZIP, plain
+Generalitat de Catalunya | 565 | 2106 | CSV, HTML, JSON, KML, KMZ, PDF, RDF-XML, RSS, XLS, XLSX, XML, XML-APP, ZIP, plain
+Gobierno de Aragón | 2750 | 12445 | CSV, Calendar, DGN, DWG, DXF, ELP, GML, HTML, JPG, JSON, KMZ, PC-Axis, PNG, RDF-Turtle, RSS, SCORM, SHP, XLS, XML-APP, ZIP, plain
 Gobierno de La Rioja | 318 | 1102 | CSV, HTML, JSON, OCTET-STREAM, XLS, XML-APP
 Gobierno de las Islas Baleares | 42 | 47 | CSV, KML, RDF-XML, RSS, XML-APP
 ICEX España Exportación e Inversiones, EP E.,, M.P. | 19 | 25 | HTML, PDF, XHTML
 Instituto Geológico y Minero de España | 2254 | 25079 | HTML, JPG, JSON, KMZ, MDB, PDF, SHP, WMS, XLS, XML, ZIP
 Instituto Nacional de Administración Pública | 5 | 5 | HTML, XHTML, XLS
-Instituto Nacional de Estadística | 2028 | 14299 | CSV, HTML, JSON, PC-Axis, XLS, XLSX
+Instituto Nacional de Estadística | 1951 | 13704 | CSV, HTML, JSON, PC-Axis, XLS, XLSX
 Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado | 1 | 4 | XLSX
 Instituto Nacional de Técnica Aeroespacial Esteban Terradas | 8 | 15 | HTML, PDF, XLSX
 Instituto Nacional de la Seguridad Social | 1 | 8 | CSV, XLSX
@@ -104,8 +104,8 @@ Instituto de Salud Carlos III | 4 | 4 | HTML, XHTML
 Instituto de Turismo de España | 5 | 5 | HTML, XHTML
 Instituto de Turismo de la Región de Murcia (ITREM) | 67 | 201 | CSV, JSON, RDF-XML
 Jefatura Central de Tráfico | 13 | 22 | CSV, HTML, PC-Axis, PDF, XLS, plain
-Junta de Andalucía | 302 | 846 | Atom, CSV, HTML, JSON, KML, OCTET-STREAM, ODS, PDF, RDF-Turtle, RDF-XML, WMS-XML, XLS, ZIP
-Junta de Castilla y León | 501 | 680 | CSV, Calendar, ECW, JPG, JSON, KML, OCTET-STREAM, RDF-XML, RSS, SHP, TIFF, WMS, XML-APP, plain
+Junta de Andalucía | 310 | 858 | Atom, CSV, HTML, JSON, KML, OCTET-STREAM, ODS, PDF, RDF-Turtle, RDF-XML, WMS-XML, XLS, ZIP
+Junta de Castilla y León | 505 | 686 | CSV, Calendar, ECW, JPG, JSON, KML, OCTET-STREAM, RDF-XML, RSS, SHP, TIFF, WMS, XML-APP, plain
 Mercados Centrales de Abastecimiento S.A. | 1 | 1 | HTML
 Ministerio de Agricultura y Pesca,, Alimentación y Medio Ambiente | 89 | 158 | ASCII, HTML, KMZ, MDB, PDF, RSS, SHP, XHTML, XLS
 Ministerio de Agricultura,, Pesca y Alimentación | 3 | 3 | HTML, XLS
@@ -130,7 +130,7 @@ Parlamento de Canarias | 33 | 240 | CSV, JSON
 Puertos del Estado | 10 | 14 | ASCII, HTML, PDF, XHTML, XLS
 Real Patronato sobre Discapacidad | 3 | 5 | PDF, XHTML
 Red.es | 33 | 89 | Atom, CSV, ODS, PDF, RDF-XML, XBRL, XHTML, XLS, ZIP
-Región de Murcia | 478 | 903 | CSV, HTML, JSON, KML, RDF-XML, XLS, XLSX, XML-APP, plain
+Región de Murcia | 479 | 905 | CSV, HTML, JSON, KML, RDF-XML, XLS, XLSX, XML-APP, plain
 S. de E. de la Seguridad Social | 2 | 10 | CSV, PDF, XLSX
 Servicio Público de Empleo Estatal | 4 | 146 | CSV, XLS
 Sociedad Estatal de Participaciones Industriales | 17 | 17 | HTML, PDF
