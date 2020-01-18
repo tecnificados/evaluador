@@ -17,7 +17,7 @@
 "Autoridad Portuaria de Tarragona";4;0;0;1;3;0
 "Ayuntamiento de Alcobendas";200;0;0;0;192;8
 "Ayuntamiento de Alcoy";20;0;0;0;20;0
-"Ayuntamiento de Arganda del Rey";641;0;18;6;617;0
+"Ayuntamiento de Arganda del Rey";642;0;18;6;618;0
 "Ayuntamiento de Badia del Vallès";11;0;0;0;0;11
 "Ayuntamiento de Barcelona";459;29;0;30;379;21
 "Ayuntamiento de Bilbao";190;0;0;12;176;2
@@ -29,7 +29,7 @@
 "Ayuntamiento de L'Hospitalet de Llobregat";2;0;0;0;2;0
 "Ayuntamiento de Las Palmas de Gran Canaria";90;0;0;0;63;27
 "Ayuntamiento de Lorca";188;1;0;4;179;4
-"Ayuntamiento de Madrid";437;33;0;75;259;70
+"Ayuntamiento de Madrid";436;33;0;75;259;69
 "Ayuntamiento de Manlleu";7;0;0;0;7;0
 "Ayuntamiento de Martos";3;0;0;0;3;0
 "Ayuntamiento de Málaga";876;7;33;239;597;0
@@ -46,7 +46,7 @@
 "Ayuntamiento de Vitoria-Gasteiz";150;8;2;60;80;0
 "Ayuntamiento de Zaragoza";136;55;0;16;62;3
 "Ayuntamiento de la Pobla de Vallbona";2;0;0;1;1;0
-"Biblioteca Nacional de España";268;0;0;1;264;3
+"Biblioteca Nacional de España";271;0;0;1;267;3
 "Cabildo Insular de Tenerife";25;0;0;7;18;0
 "Centro Nacional de Información Geográfica";77;3;9;56;9;0
 "Centro de Estudios Jurídicos";1;0;0;1;0;0
@@ -60,8 +60,8 @@
 "Comisión Nacional del Mercado de Valores";14;0;0;11;3;0
 "Compañia Española de Financiacion del Desarrollo Cofides,, S.A.";1;0;0;1;0;0
 "Comunidad Autónoma de Canarias";183;9;3;116;55;0
-"Comunidad Autónoma de Castilla-La Mancha";263;0;23;182;58;0
-"Comunidad Autónoma de País Vasco";5655;52;192;882;4513;16
+"Comunidad Autónoma de Castilla-La Mancha";262;0;23;182;57;0
+"Comunidad Autónoma de País Vasco";5659;52;192;882;4517;16
 "Comunidad de Madrid";178;1;0;52;125;0
 "Concello de Santiago de Compostela";34;0;0;6;28;0
 "Confederación Hidrográfica del Guadalquivir";52;0;0;5;47;0
@@ -81,14 +81,14 @@
 "Fundación Lázaro Galdiano";2;0;1;1;0;0
 "Fundación Pluralismo y Convivencia";23;0;12;11;0;0
 "Generalitat Valenciana";169;0;2;0;167;0
-"Generalitat de Catalunya";565;2;2;166;122;273
+"Generalitat de Catalunya";562;2;2;166;116;276
 "Gobierno de Aragón";2750;22;16;724;1223;765
 "Gobierno de La Rioja";318;3;0;30;285;0
 "Gobierno de las Islas Baleares";42;4;0;0;24;14
 "ICEX España Exportación e Inversiones, EP E.,, M.P.";19;0;0;19;0;0
 "Instituto Geológico y Minero de España";2254;0;620;407;1227;0
 "Instituto Nacional de Administración Pública";5;0;0;5;0;0
-"Instituto Nacional de Estadística";1951;0;0;272;1679;0
+"Instituto Nacional de Estadística";1969;0;0;272;1697;0
 "Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado";1;0;0;1;0;0
 "Instituto Nacional de Técnica Aeroespacial Esteban Terradas";8;0;2;6;0;0
 "Instituto Nacional de la Seguridad Social";1;0;0;0;1;0
@@ -100,7 +100,7 @@
 "Instituto de Turismo de España";5;0;0;5;0;0
 "Instituto de Turismo de la Región de Murcia (ITREM)";67;0;0;0;0;67
 "Jefatura Central de Tráfico";13;0;1;5;7;0
-"Junta de Andalucía";310;0;4;98;133;75
+"Junta de Andalucía";328;0;4;99;150;75
 "Junta de Castilla y León";505;3;0;140;352;10
 "Mercados Centrales de Abastecimiento S.A.";1;0;0;1;0;0
 "Ministerio de Agricultura y Pesca,, Alimentación y Medio Ambiente";89;0;44;33;12;0
