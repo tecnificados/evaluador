@@ -3,28 +3,28 @@ En la siguiente tabla listamos por cada organismo, los diversos conjuntos de dat
 
 Organismo | Conjuntos de datos | No evaluables | 1 Estrella | 2 Estrellas | 3 Estrellas | 4 Estrellas
 -- | -- | -- | --| --| --| --
-Ayuntamiento de Alcobendas | 200 | 0 | 0 | 0 | 192 | 8
+Ayuntamiento de Alcobendas | 201 | 0 | 0 | 0 | 193 | 8
 Ayuntamiento de Alcoy | 20 | 0 | 0 | 0 | 20 | 0
-Ayuntamiento de Arganda del Rey | 642 | 0 | 18 | 6 | 618 | 0
+Ayuntamiento de Arganda del Rey | 650 | 0 | 20 | 6 | 624 | 0
 Ayuntamiento de Badia del Vallès | 11 | 0 | 0 | 0 | 0 | 11
-Ayuntamiento de Barcelona | 459 | 29 | 0 | 30 | 379 | 21
-Ayuntamiento de Bilbao | 190 | 0 | 0 | 12 | 176 | 2
+Ayuntamiento de Barcelona | 469 | 29 | 0 | 29 | 390 | 21
+Ayuntamiento de Bilbao | 212 | 0 | 0 | 13 | 197 | 2
 Ayuntamiento de Cartagena | 20 | 0 | 0 | 0 | 0 | 20
 Ayuntamiento de Cáceres | 116 | 0 | 0 | 0 | 0 | 116
-Ayuntamiento de Donostia/San Sebastián | 65 | 0 | 0 | 0 | 64 | 1
-Ayuntamiento de Gijón | 781 | 16 | 0 | 16 | 630 | 119
+Ayuntamiento de Donostia/San Sebastián | 66 | 0 | 0 | 0 | 65 | 1
+Ayuntamiento de Gijón | 782 | 16 | 0 | 16 | 631 | 119
 Ayuntamiento de Jerez de la Frontera | 1 | 0 | 0 | 0 | 1 | 0
 Ayuntamiento de L'Hospitalet de Llobregat | 2 | 0 | 0 | 0 | 2 | 0
 Ayuntamiento de Las Palmas de Gran Canaria | 90 | 0 | 0 | 0 | 63 | 27
 Ayuntamiento de Lorca | 188 | 1 | 0 | 4 | 179 | 4
-Ayuntamiento de Madrid | 436 | 33 | 0 | 75 | 259 | 69
+Ayuntamiento de Madrid | 440 | 33 | 0 | 76 | 262 | 69
 Ayuntamiento de Manlleu | 7 | 0 | 0 | 0 | 7 | 0
 Ayuntamiento de Martos | 3 | 0 | 0 | 0 | 3 | 0
-Ayuntamiento de Málaga | 876 | 7 | 33 | 239 | 597 | 0
+Ayuntamiento de Málaga | 878 | 7 | 33 | 239 | 599 | 0
 Ayuntamiento de Pamplona | 14 | 2 | 0 | 7 | 5 | 0
-Ayuntamiento de Rivas-Vaciamadrid | 59 | 0 | 0 | 1 | 50 | 8
+Ayuntamiento de Rivas-Vaciamadrid | 60 | 0 | 0 | 1 | 51 | 8
 Ayuntamiento de San Sebastián de los Reyes | 51 | 0 | 0 | 36 | 15 | 0
-Ayuntamiento de Sant Feliu de Llobregat | 47 | 0 | 1 | 1 | 8 | 37
+Ayuntamiento de Sant Feliu de Llobregat | 49 | 0 | 1 | 1 | 11 | 36
 Ayuntamiento de Santa Cruz de Tenerife | 90 | 0 | 0 | 2 | 21 | 67
 Ayuntamiento de Santander | 88 | 0 | 0 | 2 | 4 | 82
 Ayuntamiento de Tarragona | 1 | 0 | 0 | 0 | 1 | 0
