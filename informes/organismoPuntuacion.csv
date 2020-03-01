@@ -17,9 +17,9 @@
 "Autoridad Portuaria de Tarragona";4;0;0;1;3;0
 "Ayuntamiento de Alcobendas";201;0;0;0;193;8
 "Ayuntamiento de Alcoy";20;0;0;0;20;0
-"Ayuntamiento de Arganda del Rey";650;0;20;6;624;0
+"Ayuntamiento de Arganda del Rey";652;0;20;6;626;0
 "Ayuntamiento de Badia del Vallès";11;0;0;0;0;11
-"Ayuntamiento de Barcelona";469;29;0;29;390;21
+"Ayuntamiento de Barcelona";469;29;0;22;397;21
 "Ayuntamiento de Bilbao";212;0;0;13;197;2
 "Ayuntamiento de Cartagena";20;0;0;0;0;20
 "Ayuntamiento de Cáceres";116;0;0;0;0;116
@@ -32,7 +32,7 @@
 "Ayuntamiento de Madrid";440;33;0;76;262;69
 "Ayuntamiento de Manlleu";7;0;0;0;7;0
 "Ayuntamiento de Martos";3;0;0;0;3;0
-"Ayuntamiento de Málaga";878;7;33;239;599;0
+"Ayuntamiento de Málaga";890;7;33;242;608;0
 "Ayuntamiento de Pamplona";14;2;0;7;5;0
 "Ayuntamiento de Rivas-Vaciamadrid";60;0;0;1;51;8
 "Ayuntamiento de San Sebastián de los Reyes";51;0;0;36;15;0
@@ -61,7 +61,7 @@
 "Compañia Española de Financiacion del Desarrollo Cofides,, S.A.";1;0;0;1;0;0
 "Comunidad Autónoma de Canarias";183;9;3;116;55;0
 "Comunidad Autónoma de Castilla-La Mancha";265;0;24;177;64;0
-"Comunidad Autónoma de País Vasco";5853;52;195;1033;4557;16
+"Comunidad Autónoma de País Vasco";5857;52;195;1034;4560;16
 "Comunidad de Madrid";181;1;0;52;128;0
 "Concello de Santiago de Compostela";34;0;0;6;28;0
 "Confederación Hidrográfica del Guadalquivir";52;0;0;5;47;0
@@ -80,9 +80,9 @@
 "Fundación Española para la Ciencia y la Tecnología";14;0;0;3;11;0
 "Fundación Lázaro Galdiano";2;0;1;1;0;0
 "Fundación Pluralismo y Convivencia";23;0;12;11;0;0
-"Generalitat Valenciana";444;24;23;1;396;0
+"Generalitat Valenciana";472;25;24;1;422;0
 "Generalitat de Catalunya";574;2;2;165;116;289
-"Gobierno de Aragón";2761;23;16;750;1207;765
+"Gobierno de Aragón";2763;23;16;750;1209;765
 "Gobierno de La Rioja";329;3;0;30;296;0
 "Gobierno de las Islas Baleares";42;4;0;0;24;14
 "ICEX España Exportación e Inversiones, EP E.,, M.P.";19;0;0;19;0;0
@@ -122,7 +122,7 @@
 "Ministerio para la Transición Ecológica";10;0;2;5;0;3
 "Oficina Española de Patentes y Marcas";18;0;2;15;1;0
 "Organismo Autónomo Parques Nacionales";12;0;0;12;0;0
-"Parlamento de Canarias";33;0;0;0;33;0
+"Parlamento de Canarias";124;0;0;0;124;0
 "Puertos del Estado";10;0;1;8;1;0
 "Real Patronato sobre Discapacidad";3;0;0;3;0;0
 "Red.es";33;1;4;8;19;1
