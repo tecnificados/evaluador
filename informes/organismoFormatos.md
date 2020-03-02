@@ -32,8 +32,8 @@ Ayuntamiento de Gijón | 782 | 5301 | CSV, HTML, JSON, KML, PDF, RDF-N3, RDF-Tur
 Ayuntamiento de Jerez de la Frontera | 1 | 3 | CSV, PDF, XLS
 Ayuntamiento de L'Hospitalet de Llobregat | 2 | 11 | API, CSV, HTML, JSON, RSS, TSV, XML
 Ayuntamiento de Las Palmas de Gran Canaria | 90 | 910 | Atom, CSV, HTML, JSON, JSON-LD, KMZ, ODS, RDF-N3, RDF-Turtle, RDF-XML, RSS, WFS, WMS, XLS, XLSX, ZIP
-Ayuntamiento de Lorca | 188 | 916 | CSV, HTML, JSON, KML, KMZ, PDF, RDF-XML, SHP, XLS, XML, ZIP
-Ayuntamiento de Madrid | 440 | 4008 | CSV, GPX, GZIP, HTML, JSON, KML, KMZ, PDF, RDF-XML, RSS, XLS, XML, XML-APP, ZIP, plain
+Ayuntamiento de Lorca | 189 | 917 | CSV, HTML, JSON, KML, KMZ, PDF, RDF-XML, SHP, XLS, XML, ZIP
+Ayuntamiento de Madrid | 437 | 4015 | CSV, GPX, GZIP, HTML, JSON, KML, KMZ, PDF, RDF-XML, RSS, XLS, XML, XML-APP, ZIP, plain
 Ayuntamiento de Manlleu | 7 | 31 | API, CSV, JSON, KML, SHP
 Ayuntamiento de Martos | 3 | 6 | JSON, RSS
 Ayuntamiento de Málaga | 890 | 2143 | CSV, GML, HTML, JSON, KML, KMZ, PDF, RSS, SHP, TSV, XLS, XLSX, ZIP
@@ -65,7 +65,7 @@ Comisión Nacional del Mercado de Valores | 14 | 20 | PDF, XBRL, XHTML, XLSX
 Compañia Española de Financiacion del Desarrollo Cofides,, S.A. | 1 | 1 | XHTML
 Comunidad Autónoma de Canarias | 183 | 2811 | CSV, GML, HTML, JSON, KMZ, ODS, PDF, RSS, SHP, XLS, XLSX, ZIP
 Comunidad Autónoma de Castilla-La Mancha | 265 | 524 | CSV, HTML, JSON, PDF, SHP, XLS, XLSX, XML, ZIP
-Comunidad Autónoma de País Vasco | 5857 | 15173 | API, ASCII, CSV, CSW, Calendar, ECW, GeoJSON, HTML, JPG, JSON, KML, KMZ, MDB, ODS, PC-Axis, PDF, RDF-Turtle, RDF-XML, RSS, SHP, SPARQL-XML, TBX, TIFF, TMX, WCS, WMS, XLS, XLSX, XML, ZIP, vCard-XML
+Comunidad Autónoma de País Vasco | 6149 | 15471 | API, ASCII, CSV, CSW, Calendar, ECW, GeoJSON, HTML, JPG, JSON, KML, KMZ, MDB, ODS, PC-Axis, PDF, RDF-Turtle, RDF-XML, RSS, SHP, SPARQL-XML, TBX, TIFF, TMX, WCS, WMS, XLS, XLSX, XML, ZIP, vCard-XML
 Comunidad de Madrid | 181 | 427 | CSV, DOCX, HTML, JSON, SHP, WMS, XLSX, ZIP
 Concello de Santiago de Compostela | 34 | 63 | CSV, ODS, SHP, XLS
 Confederación Hidrográfica del Guadalquivir | 52 | 619 | HTML, JPG, KMZ, ODS, PDF, PNG, SHP, TIFF, WCS, WFS, WMS, ZIP
@@ -84,10 +84,10 @@ Fondo de Garantía Salarial | 4 | 8 | CSV, XLS
 Fundación Española para la Ciencia y la Tecnología | 14 | 22 | CSV, HTML, RSS
 Fundación Lázaro Galdiano | 2 | 2 | HTML, PDF
 Fundación Pluralismo y Convivencia | 23 | 30 | API, HTML, PDF, XHTML, XLS
-Generalitat Valenciana | 472 | 773 | CSV, KML, PDF, WMS, ZIP, plain
+Generalitat Valenciana | 469 | 763 | CSV, KML, PDF, WMS, ZIP, plain
 Generalitat de Catalunya | 574 | 2127 | CSV, HTML, JSON, KML, KMZ, PDF, RDF-XML, RSS, XLS, XLSX, XML, XML-APP, ZIP, plain
 Gobierno de Aragón | 2763 | 12447 | CSV, Calendar, DGN, DWG, DXF, ELP, GML, HTML, JPG, JSON, KMZ, OCTET-STREAM, PC-Axis, PNG, RDF-Turtle, RSS, SCORM, SHP, XLS, XML-APP, ZIP, plain
-Gobierno de La Rioja | 329 | 1134 | CSV, HTML, JSON, OCTET-STREAM, XLS, XML-APP
+Gobierno de La Rioja | 330 | 1135 | CSV, HTML, JSON, OCTET-STREAM, XLS, XML-APP
 Gobierno de las Islas Baleares | 42 | 47 | CSV, KML, RDF-XML, RSS, XML-APP
 ICEX España Exportación e Inversiones, EP E.,, M.P. | 19 | 25 | HTML, PDF, XHTML
 Instituto Geológico y Minero de España | 2254 | 25079 | HTML, JPG, JSON, KMZ, MDB, PDF, SHP, WMS, XLS, XML, ZIP

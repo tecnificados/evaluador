@@ -16,8 +16,8 @@ Ayuntamiento de Gijón | 782 | 16 | 0 | 16 | 631 | 119
 Ayuntamiento de Jerez de la Frontera | 1 | 0 | 0 | 0 | 1 | 0
 Ayuntamiento de L'Hospitalet de Llobregat | 2 | 0 | 0 | 0 | 2 | 0
 Ayuntamiento de Las Palmas de Gran Canaria | 90 | 0 | 0 | 0 | 63 | 27
-Ayuntamiento de Lorca | 188 | 1 | 0 | 4 | 179 | 4
-Ayuntamiento de Madrid | 440 | 33 | 0 | 76 | 262 | 69
+Ayuntamiento de Lorca | 189 | 1 | 0 | 4 | 180 | 4
+Ayuntamiento de Madrid | 437 | 33 | 0 | 76 | 259 | 69
 Ayuntamiento de Manlleu | 7 | 0 | 0 | 0 | 7 | 0
 Ayuntamiento de Martos | 3 | 0 | 0 | 0 | 3 | 0
 Ayuntamiento de Málaga | 890 | 7 | 33 | 242 | 608 | 0
