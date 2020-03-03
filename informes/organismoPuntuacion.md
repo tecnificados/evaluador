@@ -19,7 +19,7 @@ Autoridad Portuaria de Melilla | 3 | 0 | 0 | 3 | 0 | 0
 Autoridad Portuaria de Motril | 8 | 0 | 0 | 8 | 0 | 0
 Autoridad Portuaria de Santander | 5 | 0 | 1 | 4 | 0 | 0
 Autoridad Portuaria de Tarragona | 4 | 0 | 0 | 1 | 3 | 0
-Ayuntamiento de Alcobendas | 201 | 0 | 0 | 0 | 193 | 8
+Ayuntamiento de Alcobendas | 200 | 0 | 0 | 0 | 192 | 8
 Ayuntamiento de Alcoy | 20 | 0 | 0 | 0 | 20 | 0
 Ayuntamiento de Arganda del Rey | 652 | 0 | 20 | 6 | 626 | 0
 Ayuntamiento de Badia del Vallès | 11 | 0 | 0 | 0 | 0 | 11

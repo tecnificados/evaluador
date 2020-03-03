@@ -3,7 +3,7 @@ En la siguiente tabla listamos por cada organismo, los diversos conjuntos de dat
 
 Organismo | Conjuntos de datos | No evaluables | 1 Estrella | 2 Estrellas | 3 Estrellas | 4 Estrellas
 -- | -- | -- | --| --| --| --
-Ayuntamiento de Alcobendas | 201 | 0 | 0 | 0 | 193 | 8
+Ayuntamiento de Alcobendas | 200 | 0 | 0 | 0 | 192 | 8
 Ayuntamiento de Alcoy | 20 | 0 | 0 | 0 | 20 | 0
 Ayuntamiento de Arganda del Rey | 652 | 0 | 20 | 6 | 626 | 0
 Ayuntamiento de Badia del Vallès | 11 | 0 | 0 | 0 | 0 | 11
