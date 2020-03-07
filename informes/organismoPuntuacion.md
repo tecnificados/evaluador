@@ -85,7 +85,7 @@ Fundación Española para la Ciencia y la Tecnología | 14 | 0 | 0 | 3 | 11 | 0
 Fundación Lázaro Galdiano | 2 | 0 | 1 | 1 | 0 | 0
 Fundación Pluralismo y Convivencia | 23 | 0 | 12 | 11 | 0 | 0
 Generalitat Valenciana | 469 | 24 | 23 | 1 | 421 | 0
-Generalitat de Catalunya | 574 | 2 | 2 | 165 | 116 | 289
+Generalitat de Catalunya | 576 | 2 | 2 | 165 | 116 | 291
 Gobierno de Aragón | 2763 | 23 | 16 | 750 | 1209 | 765
 Gobierno de La Rioja | 330 | 3 | 0 | 31 | 296 | 0
 Gobierno de las Islas Baleares | 42 | 4 | 0 | 0 | 24 | 14
