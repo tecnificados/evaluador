@@ -9,9 +9,10 @@ import java.util.ResourceBundle;
  * @author Juan Carlos Ballesteros (tecnificados.com)
  */
 public class Messages {
-	private static final String BUNDLE_NAME = "org.tecnificados.com.evaluador.util.messages"; 
+	private static final String BUNDLE_NAME = "messages"; 
 
-	private static ResourceBundle RESOURCE_BUNDLE = ResourceBundle.getBundle("messages");
+	private static ResourceBundle RESOURCE_BUNDLE = ResourceBundle.getBundle(BUNDLE_NAME);
+
 
 	private Messages() {
 	}
