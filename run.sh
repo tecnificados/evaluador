@@ -1,3 +1,4 @@
+cd "$(dirname "$0")";
 date=$(date '+%Y-%m-%d %H:%M:%S')
 echo $date
 git pull
