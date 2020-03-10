@@ -5,9 +5,9 @@ Organismo | Conjuntos de datos | No evaluables | 1 Estrella | 2 Estrellas | 3 Es
 -- | -- | -- | --| --| --| --
 Ayuntamiento de Alcobendas | 200 | 0 | 0 | 0 | 192 | 8
 Ayuntamiento de Alcoy | 20 | 0 | 0 | 0 | 20 | 0
-Ayuntamiento de Arganda del Rey | 652 | 0 | 20 | 6 | 626 | 0
+Ayuntamiento de Arganda del Rey | 653 | 0 | 20 | 6 | 627 | 0
 Ayuntamiento de Badia del Vallès | 11 | 0 | 0 | 0 | 0 | 11
-Ayuntamiento de Barcelona | 469 | 29 | 0 | 22 | 397 | 21
+Ayuntamiento de Barcelona | 463 | 29 | 0 | 15 | 398 | 21
 Ayuntamiento de Bilbao | 212 | 0 | 0 | 13 | 197 | 2
 Ayuntamiento de Cartagena | 20 | 0 | 0 | 0 | 0 | 20
 Ayuntamiento de Cáceres | 116 | 0 | 0 | 0 | 0 | 116
@@ -17,7 +17,7 @@ Ayuntamiento de Jerez de la Frontera | 1 | 0 | 0 | 0 | 1 | 0
 Ayuntamiento de L'Hospitalet de Llobregat | 2 | 0 | 0 | 0 | 2 | 0
 Ayuntamiento de Las Palmas de Gran Canaria | 90 | 0 | 0 | 0 | 63 | 27
 Ayuntamiento de Lorca | 189 | 1 | 0 | 4 | 180 | 4
-Ayuntamiento de Madrid | 437 | 33 | 0 | 76 | 259 | 69
+Ayuntamiento de Madrid | 450 | 33 | 0 | 89 | 259 | 69
 Ayuntamiento de Manlleu | 7 | 0 | 0 | 0 | 7 | 0
 Ayuntamiento de Martos | 3 | 0 | 0 | 0 | 3 | 0
 Ayuntamiento de Málaga | 890 | 7 | 33 | 242 | 608 | 0

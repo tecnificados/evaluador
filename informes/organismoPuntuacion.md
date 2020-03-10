@@ -21,9 +21,9 @@ Autoridad Portuaria de Santander | 5 | 0 | 1 | 4 | 0 | 0
 Autoridad Portuaria de Tarragona | 4 | 0 | 0 | 1 | 3 | 0
 Ayuntamiento de Alcobendas | 200 | 0 | 0 | 0 | 192 | 8
 Ayuntamiento de Alcoy | 20 | 0 | 0 | 0 | 20 | 0
-Ayuntamiento de Arganda del Rey | 652 | 0 | 20 | 6 | 626 | 0
+Ayuntamiento de Arganda del Rey | 653 | 0 | 20 | 6 | 627 | 0
 Ayuntamiento de Badia del Vallès | 11 | 0 | 0 | 0 | 0 | 11
-Ayuntamiento de Barcelona | 469 | 29 | 0 | 22 | 397 | 21
+Ayuntamiento de Barcelona | 463 | 29 | 0 | 15 | 398 | 21
 Ayuntamiento de Bilbao | 212 | 0 | 0 | 13 | 197 | 2
 Ayuntamiento de Cartagena | 20 | 0 | 0 | 0 | 0 | 20
 Ayuntamiento de Cáceres | 116 | 0 | 0 | 0 | 0 | 116
@@ -33,7 +33,7 @@ Ayuntamiento de Jerez de la Frontera | 1 | 0 | 0 | 0 | 1 | 0
 Ayuntamiento de L'Hospitalet de Llobregat | 2 | 0 | 0 | 0 | 2 | 0
 Ayuntamiento de Las Palmas de Gran Canaria | 90 | 0 | 0 | 0 | 63 | 27
 Ayuntamiento de Lorca | 189 | 1 | 0 | 4 | 180 | 4
-Ayuntamiento de Madrid | 437 | 33 | 0 | 76 | 259 | 69
+Ayuntamiento de Madrid | 450 | 33 | 0 | 89 | 259 | 69
 Ayuntamiento de Manlleu | 7 | 0 | 0 | 0 | 7 | 0
 Ayuntamiento de Martos | 3 | 0 | 0 | 0 | 3 | 0
 Ayuntamiento de Málaga | 890 | 7 | 33 | 242 | 608 | 0
@@ -64,8 +64,8 @@ Comisión Nacional de los Mercados y la Competencia | 21 | 1 | 0 | 20 | 0 | 0
 Comisión Nacional del Mercado de Valores | 14 | 0 | 0 | 11 | 3 | 0
 Compañia Española de Financiacion del Desarrollo Cofides,, S.A. | 1 | 0 | 0 | 1 | 0 | 0
 Comunidad Autónoma de Canarias | 183 | 9 | 3 | 116 | 55 | 0
-Comunidad Autónoma de Castilla-La Mancha | 265 | 0 | 24 | 177 | 64 | 0
-Comunidad Autónoma de País Vasco | 6149 | 52 | 195 | 1324 | 4562 | 16
+Comunidad Autónoma de Castilla-La Mancha | 266 | 0 | 24 | 177 | 65 | 0
+Comunidad Autónoma de País Vasco | 6168 | 52 | 196 | 1328 | 4576 | 16
 Comunidad de Madrid | 181 | 1 | 0 | 52 | 128 | 0
 Concello de Santiago de Compostela | 34 | 0 | 0 | 6 | 28 | 0
 Confederación Hidrográfica del Guadalquivir | 52 | 0 | 0 | 5 | 47 | 0
@@ -84,13 +84,14 @@ Fondo de Garantía Salarial | 4 | 0 | 0 | 0 | 4 | 0
 Fundación Española para la Ciencia y la Tecnología | 14 | 0 | 0 | 3 | 11 | 0
 Fundación Lázaro Galdiano | 2 | 0 | 1 | 1 | 0 | 0
 Fundación Pluralismo y Convivencia | 23 | 0 | 12 | 11 | 0 | 0
-Generalitat Valenciana | 469 | 24 | 23 | 1 | 421 | 0
-Generalitat de Catalunya | 576 | 2 | 2 | 165 | 116 | 291
+Generalitat Valenciana | 261 | 25 | 0 | 1 | 235 | 0
+Generalitat de Catalunya | 578 | 2 | 2 | 165 | 116 | 293
 Gobierno de Aragón | 2763 | 23 | 16 | 750 | 1209 | 765
 Gobierno de La Rioja | 330 | 3 | 0 | 31 | 296 | 0
 Gobierno de las Islas Baleares | 42 | 4 | 0 | 0 | 24 | 14
 ICEX España Exportación e Inversiones, EP E.,, M.P. | 19 | 0 | 0 | 19 | 0 | 0
 Instituto Geológico y Minero de España | 2254 | 0 | 620 | 407 | 1227 | 0
+Instituto Insular de Atención Social y Socio-Sanitaria | 2 | 0 | 0 | 0 | 2 | 0
 Instituto Nacional de Administración Pública | 5 | 0 | 0 | 5 | 0 | 0
 Instituto Nacional de Estadística | 1881 | 0 | 0 | 211 | 1670 | 0
 Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado | 1 | 0 | 0 | 1 | 0 | 0
@@ -104,8 +105,8 @@ Instituto de Salud Carlos III | 4 | 0 | 0 | 4 | 0 | 0
 Instituto de Turismo de España | 5 | 0 | 0 | 5 | 0 | 0
 Instituto de Turismo de la Región de Murcia (ITREM) | 67 | 0 | 0 | 0 | 0 | 67
 Jefatura Central de Tráfico | 13 | 0 | 1 | 5 | 7 | 0
-Junta de Andalucía | 388 | 0 | 4 | 143 | 166 | 75
-Junta de Castilla y León | 506 | 3 | 0 | 140 | 353 | 10
+Junta de Andalucía | 388 | 0 | 4 | 141 | 168 | 75
+Junta de Castilla y León | 512 | 3 | 0 | 140 | 359 | 10
 Mercados Centrales de Abastecimiento S.A. | 1 | 0 | 0 | 1 | 0 | 0
 Ministerio de Agricultura y Pesca,, Alimentación y Medio Ambiente | 89 | 0 | 44 | 33 | 12 | 0
 Ministerio de Agricultura,, Pesca y Alimentación | 3 | 0 | 0 | 3 | 0 | 0
@@ -141,4 +142,4 @@ Universidad Pablo de Olavide | 13 | 0 | 0 | 0 | 2 | 11
 Universidad de Castilla-La Mancha | 12 | 0 | 0 | 0 | 12 | 0
 Universidad de Extremadura | 104 | 0 | 0 | 0 | 0 | 104
 Universidad de Zaragoza | 94 | 0 | 0 | 0 | 94 | 0
-Xunta de Galicia | 323 | 7 | 41 | 68 | 205 | 2
+Xunta de Galicia | 323 | 7 | 40 | 69 | 205 | 2
