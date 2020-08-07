@@ -3,7 +3,6 @@ En la siguiente tabla listamos por cada organismo, los diversos conjuntos de dat
 
 Organismo | Conjuntos de datos | No evaluables | 1 Estrella | 2 Estrellas | 3 Estrellas | 4 Estrellas
 -- | -- | -- | --| --| --| --
-ANIMSA | 1 | 1 | 0 | 0 | 0 | 0
 Agencia Española de Protección de Datos | 2 | 0 | 2 | 0 | 0 | 0
 Agencia Estatal Boletín Oficial del Estado | 10 | 0 | 0 | 10 | 0 | 0
 Agencia Estatal Consejo Superior de Investigaciones Científicas | 16 | 0 | 0 | 16 | 0 | 0
@@ -25,7 +24,7 @@ Ayuntamiento de Arganda del Rey | 684 | 0 | 20 | 6 | 658 | 0
 Ayuntamiento de Badia del Vallès | 11 | 0 | 0 | 0 | 0 | 11
 Ayuntamiento de Barcelona | 475 | 25 | 0 | 13 | 416 | 21
 Ayuntamiento de Bilbao | 220 | 0 | 0 | 13 | 205 | 2
-Ayuntamiento de Cartagena | 40 | 0 | 0 | 0 | 0 | 40
+Ayuntamiento de Cartagena | 20 | 0 | 0 | 0 | 0 | 20
 Ayuntamiento de Cáceres | 116 | 0 | 0 | 0 | 0 | 116
 Ayuntamiento de Donostia/San Sebastián | 84 | 0 | 0 | 0 | 83 | 1
 Ayuntamiento de Gijón | 782 | 16 | 0 | 16 | 631 | 119
@@ -44,7 +43,7 @@ Ayuntamiento de Sant Feliu de Llobregat | 49 | 0 | 1 | 1 | 11 | 36
 Ayuntamiento de Santa Cruz de Tenerife | 90 | 0 | 0 | 2 | 21 | 67
 Ayuntamiento de Santander | 88 | 0 | 0 | 2 | 4 | 82
 Ayuntamiento de Tarragona | 1 | 0 | 0 | 0 | 1 | 0
-Ayuntamiento de Terrassa | 137 | 5 | 1 | 0 | 131 | 0
+Ayuntamiento de Terrassa | 133 | 5 | 1 | 0 | 127 | 0
 Ayuntamiento de Torrent | 175 | 0 | 0 | 1 | 174 | 0
 Ayuntamiento de Valencia | 115 | 1 | 0 | 4 | 106 | 4
 Ayuntamiento de Vigo | 148 | 0 | 0 | 6 | 142 | 0
@@ -52,7 +51,7 @@ Ayuntamiento de Villanueva de la Serena | 46 | 0 | 0 | 2 | 44 | 0
 Ayuntamiento de Vitoria-Gasteiz | 169 | 8 | 2 | 72 | 87 | 0
 Ayuntamiento de Zaragoza | 136 | 55 | 0 | 16 | 62 | 3
 Ayuntamiento de la Pobla de Vallbona | 2 | 0 | 0 | 1 | 1 | 0
-Biblioteca Nacional de España | 275 | 0 | 0 | 1 | 271 | 3
+Biblioteca Nacional de España | 276 | 0 | 0 | 1 | 272 | 3
 Cabildo Insular de Tenerife | 25 | 0 | 0 | 7 | 18 | 0
 Centro Nacional de Información Geográfica | 77 | 3 | 9 | 56 | 9 | 0
 Centro de Estudios Jurídicos | 1 | 0 | 0 | 1 | 0 | 0
@@ -66,8 +65,8 @@ Comisión Nacional de los Mercados y la Competencia | 21 | 1 | 0 | 20 | 0 | 0
 Comisión Nacional del Mercado de Valores | 14 | 0 | 0 | 11 | 3 | 0
 Compañia Española de Financiacion del Desarrollo Cofides,, S.A. | 1 | 0 | 0 | 1 | 0 | 0
 Comunidad Autónoma de Canarias | 183 | 9 | 3 | 116 | 55 | 0
-Comunidad Autónoma de Castilla-La Mancha | 269 | 0 | 22 | 170 | 77 | 0
-Comunidad Autónoma de País Vasco | 5002 | 52 | 171 | 1570 | 3194 | 15
+Comunidad Autónoma de Castilla-La Mancha | 270 | 0 | 22 | 171 | 77 | 0
+Comunidad Autónoma de País Vasco | 5011 | 52 | 171 | 1570 | 3203 | 15
 Comunidad de Madrid | 187 | 0 | 2 | 52 | 133 | 0
 Concello de Santiago de Compostela | 34 | 0 | 0 | 6 | 28 | 0
 Confederación Hidrográfica del Guadalquivir | 41 | 0 | 0 | 5 | 36 | 0
@@ -86,16 +85,16 @@ Fondo de Garantía Salarial | 4 | 0 | 0 | 0 | 4 | 0
 Fundación Española para la Ciencia y la Tecnología | 14 | 0 | 0 | 3 | 11 | 0
 Fundación Lázaro Galdiano | 2 | 0 | 1 | 1 | 0 | 0
 Fundación Pluralismo y Convivencia | 23 | 0 | 12 | 11 | 0 | 0
-Generalitat Valenciana | 776 | 20 | 24 | 1 | 731 | 0
+Generalitat Valenciana | 670 | 20 | 24 | 1 | 625 | 0
 Generalitat de Catalunya | 680 | 2 | 2 | 161 | 116 | 399
-Gobierno de Aragón | 2215 | 23 | 16 | 809 | 1148 | 219
+Gobierno de Aragón | 1994 | 23 | 16 | 809 | 1145 | 1
 Gobierno de La Rioja | 350 | 3 | 0 | 33 | 314 | 0
-Gobierno de las Islas Baleares | 194 | 0 | 0 | 1 | 113 | 80
+Gobierno de las Islas Baleares | 195 | 0 | 0 | 2 | 113 | 80
 ICEX España Exportación e Inversiones | 19 | 0 | 0 | 19 | 0 | 0
 Instituto Geológico y Minero de España | 2254 | 0 | 620 | 407 | 1227 | 0
 Instituto Insular de Atención Social y Socio-Sanitaria | 4 | 0 | 0 | 0 | 4 | 0
 Instituto Nacional de Administración Pública | 5 | 0 | 0 | 5 | 0 | 0
-Instituto Nacional de Estadística | 1846 | 0 | 0 | 211 | 1635 | 0
+Instituto Nacional de Estadística | 1552 | 0 | 0 | 211 | 1341 | 0
 Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado | 1 | 0 | 0 | 1 | 0 | 0
 Instituto Nacional de Técnica Aeroespacial Esteban Terradas | 8 | 0 | 2 | 6 | 0 | 0
 Instituto Nacional de la Seguridad Social | 1 | 0 | 0 | 0 | 1 | 0
@@ -128,7 +127,7 @@ Ministerio de Sanidad,, Consumo y Bienestar Social [EXTINTO] | 14 | 0 | 0 | 7 | 
 Ministerio de Trabajo,, Migraciones y Seguridad Social [EXTINTO] | 10 | 0 | 1 | 9 | 0 | 0
 Ministerio de la Presidencia,, Relaciones con las Cortes e Igualdad [EXTINTO] | 27 | 0 | 2 | 11 | 14 | 0
 Ministerio de la Presidencia,, Relaciones con las Cortes y Memoria Democrática | 4 | 0 | 2 | 0 | 2 | 0
-Ministerio del Interior | 92 | 5 | 5 | 37 | 45 | 0
+Ministerio del Interior | 91 | 5 | 3 | 38 | 45 | 0
 Ministerio para la Transición Ecológica [EXTINTO] | 10 | 0 | 2 | 5 | 0 | 3
 Oficina Española de Patentes y Marcas | 18 | 0 | 2 | 15 | 1 | 0
 Organismo Autónomo Parques Nacionales | 12 | 0 | 0 | 12 | 0 | 0
@@ -151,4 +150,4 @@ Universidad Pablo de Olavide | 13 | 0 | 0 | 0 | 2 | 11
 Universidad de Castilla-La Mancha | 18 | 0 | 0 | 0 | 18 | 0
 Universidad de Extremadura | 106 | 0 | 0 | 0 | 0 | 106
 Universidad de Zaragoza | 157 | 0 | 0 | 53 | 104 | 0
-Xunta de Galicia | 533 | 10 | 77 | 76 | 366 | 4
+Xunta de Galicia | 379 | 8 | 44 | 66 | 259 | 2

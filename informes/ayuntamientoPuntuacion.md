@@ -9,7 +9,7 @@ Ayuntamiento de Arganda del Rey | 684 | 0 | 20 | 6 | 658 | 0
 Ayuntamiento de Badia del Vallès | 11 | 0 | 0 | 0 | 0 | 11
 Ayuntamiento de Barcelona | 475 | 25 | 0 | 13 | 416 | 21
 Ayuntamiento de Bilbao | 220 | 0 | 0 | 13 | 205 | 2
-Ayuntamiento de Cartagena | 40 | 0 | 0 | 0 | 0 | 40
+Ayuntamiento de Cartagena | 20 | 0 | 0 | 0 | 0 | 20
 Ayuntamiento de Cáceres | 116 | 0 | 0 | 0 | 0 | 116
 Ayuntamiento de Donostia/San Sebastián | 84 | 0 | 0 | 0 | 83 | 1
 Ayuntamiento de Gijón | 782 | 16 | 0 | 16 | 631 | 119
@@ -28,7 +28,7 @@ Ayuntamiento de Sant Feliu de Llobregat | 49 | 0 | 1 | 1 | 11 | 36
 Ayuntamiento de Santa Cruz de Tenerife | 90 | 0 | 0 | 2 | 21 | 67
 Ayuntamiento de Santander | 88 | 0 | 0 | 2 | 4 | 82
 Ayuntamiento de Tarragona | 1 | 0 | 0 | 0 | 1 | 0
-Ayuntamiento de Terrassa | 137 | 5 | 1 | 0 | 131 | 0
+Ayuntamiento de Terrassa | 133 | 5 | 1 | 0 | 127 | 0
 Ayuntamiento de Torrent | 175 | 0 | 0 | 1 | 174 | 0
 Ayuntamiento de Valencia | 115 | 1 | 0 | 4 | 106 | 4
 Ayuntamiento de Vigo | 148 | 0 | 0 | 6 | 142 | 0
